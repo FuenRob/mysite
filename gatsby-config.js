@@ -65,4 +65,5 @@ module.exports = {
       }
     },
   ],
+  pathPrefix: "/myblog",
 }
