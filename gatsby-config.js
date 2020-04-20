@@ -64,6 +64,12 @@ module.exports = {
         ]
       }
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-163936148-1",
+      },
+    },
   ],
   pathPrefix: "/mysite",
 }
