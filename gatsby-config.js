@@ -7,6 +7,11 @@
 module.exports = {
   siteMetadata: {
     title: `@FuenRob`,
+    titleTemplate: `Blog de desarrollo`,
+    description: `Un blog personal sobre curiosidades y conocimientos de un desarrollador web`,
+    url: "https://fuenrob.github.io/mysite",
+    image: "/favicon.ico", 
+    twitterUsername: "@FuenRob",
     menuLinks:[
       {
           name:'Sobre mí',

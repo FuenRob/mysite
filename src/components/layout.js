@@ -2,6 +2,7 @@ import React from "react"
 import CookieConsent from "react-cookie-consent";
 import Header from "./header"
 import Footer from "./footer"
+import SEO from "./SEO"
 
 // GraphQL
 import { useStaticQuery, graphql } from "gatsby"
@@ -24,6 +25,7 @@ export default ({ children }) => {
     )
     return (
         <div className="app">
+            <SEO />
             <Header title={data.site.siteMetadata.title} menuLinks={data.site.siteMetadata.menuLinks}></Header>
             <div className="container">{children}</div>
             <Footer />
