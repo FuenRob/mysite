@@ -17,6 +17,21 @@ export default () => (
                         <FontAwesomeIcon icon={['fab', 'github']} />
                     </a>
                 </li>
+                <li className="list-item">
+                    <a href="https://www.linkedin.com/in/robercmorais/" target="_blank" rel="noopener noreferrer">
+                        <FontAwesomeIcon icon={['fab', 'linkedin']} />
+                    </a>
+                </li>
+                <li className="list-item">
+                    <a href="https://medium.com/@fuenrob" target="_blank" rel="noopener noreferrer">
+                        <FontAwesomeIcon icon={['fab', 'medium']} />
+                    </a>
+                </li>
+                <li className="list-item">
+                    <a href="https://dev.to/fuenrob" target="_blank" rel="noopener noreferrer">
+                        <FontAwesomeIcon icon={['fab', 'dev']} />
+                    </a>
+                </li>
             </ul>
         </div>
         
