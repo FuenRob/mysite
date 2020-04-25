@@ -45,7 +45,7 @@ export default ({data}) => (
               </div>
               <div className="col-fullwidth text-center">
                 <div className="formgroup">
-                  <div className="g-recaptcha text-center" data-sitekey={data.site.contact.reCAPTCHA_key}></div>
+                  <div className="g-recaptcha text-center" data-sitekey={data.site.siteMetadata.contact.reCAPTCHA_key}></div>
                 </div>
                 <button type="submit" className="btn btn-primary">Enviar</button>
               </div>
@@ -57,8 +57,10 @@ export default ({data}) => (
 export const query = graphql`
   query {
     site {
-      contact {
-        reCAPTCHA_key
+      siteMetadata{
+        contact {
+          reCAPTCHA_key
+        }
       }
     }
   }
