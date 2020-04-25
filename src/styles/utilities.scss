@@ -1,4 +1,30 @@
 /**
+ * Displays
+ */
+.container{
+    margin-right: auto;
+    margin-left:  auto;
+    max-width: 960px;
+    padding-right: 10px;
+    padding-left:  10px;
+}
+
+.col-medium{
+    width: 50%;
+    padding: 5px 10px;
+}
+
+.col-fullwidth{
+    width: 100%;
+    padding: 5px 10px;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/**
  * Margins
  */
 
@@ -47,14 +73,6 @@
 }
 
 /**
- * Displays
- */
-
-.flex{
-    display: flex;
-}
-
-/**
  * Display Texts
  */
 
@@ -84,4 +102,23 @@
 
 .initial{
     font-size: initial;
+}
+
+/**
+ * Buttons
+ */
+.btn{
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+} 
+
+.btn-primary{
+    color: $primary-color;
+    background-color: $secondary-color;
+}
+
+.btn-primary:hover{
+    color: $secondary-color;
+    background-color: $primary-color;
 }

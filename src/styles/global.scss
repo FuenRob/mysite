@@ -1,5 +1,6 @@
 @import 'variables.scss';
 @import 'utilities.scss';
+@import 'responsive.scss';
 
 .app{
     background-color: $primary-color;
@@ -42,14 +43,6 @@
 .item-name{
     color: $primary-color;
     text-decoration: none;
-}
-
-.container{
-    margin-right: auto;
-    margin-left:  auto;
-    max-width: 960px;
-    padding-right: 10px;
-    padding-left:  10px;
 }
 
 .title{
@@ -116,3 +109,29 @@ article{
         padding: 3rem;
     }
 }
+
+
+/**
+ * Form
+ */
+.formgroup {
+    margin-bottom: 10px;
+
+    .formcontrol {
+        width: 100%;
+        border: 1px solid $secondary-color;
+        border-radius: 5px;
+        margin: 5px 0px;
+    }
+
+    .textarea{
+        height: 175px;
+    }
+
+    .g-recaptcha {
+        display: inline-block;
+    }
+}
+/**
+ * End Form
+ */

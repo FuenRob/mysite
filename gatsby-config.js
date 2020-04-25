@@ -22,7 +22,9 @@ module.exports = {
           link:'/contact'
       }
     ],
-    contact: `fuenrob@gmail.com`
+  },
+  contact: {
+    reCAPTCHA_key: "6LesFu4UAAAAAORkhM-zPnykd4NqLWAq4v_YKLr_"
   },
   plugins: [
     `gatsby-plugin-sass`,
