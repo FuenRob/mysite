@@ -79,5 +79,5 @@ module.exports = {
     },
     `gatsby-plugin-sitemap`,
   ],
-  pathPrefix: "/mysite",
+  pathPrefix: `/mysite`,
 }
