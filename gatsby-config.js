@@ -9,7 +9,7 @@ module.exports = {
     title: `@FuenRob`,
     titleTemplate: `Blog de desarrollo`,
     description: `Un blog personal sobre curiosidades y conocimientos de un desarrollador web`,
-    siteUrl: "https://fuenrob.github.io/mysite",
+    siteUrl: "https://www.fuenrob.com",
     image: "/favicon.ico", 
     twitterUsername: "@FuenRob",
     menuLinks:[
@@ -79,5 +79,5 @@ module.exports = {
     },
     `gatsby-plugin-sitemap`,
   ],
-  pathPrefix: `/mysite`,
+  pathPrefix: `/`,
 }
