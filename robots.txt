@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.fuenrob.com/sitemap.xml
+Host: https://www.fuenrob.com

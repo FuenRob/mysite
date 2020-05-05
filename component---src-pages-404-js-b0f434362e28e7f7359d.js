@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{w2l6:function(e,t,a){"use strict";a.r(t);a("q1tI");var o=a("Wbzz"),n=a("Bl7J"),s=a("qKvR");t.default=function(){return Object(s.a)(n.a,null,Object(s.a)("h1",{className:"title"},"Page not Fount"),Object(s.a)("p",null,"Oooopppsss! The page you are trying to find seems to have been lost."),Object(s.a)(o.a,{className:"link",to:"/"},"Go home!"))}}}]);
-//# sourceMappingURL=component---src-pages-404-js-b0f434362e28e7f7359d.js.map
