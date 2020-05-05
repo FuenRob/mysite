@@ -78,7 +78,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-sitemap`,
-    `gatsby-plugin-offline`,
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
@@ -94,6 +93,20 @@ module.exports = {
         }
       }
     },
+    {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        cache_busting_mode: 'none'
+      }
+   },
+   {
+      resolve: 'gatsby-plugin-offline',
+      options: {
+         workboxConfig: {
+            globPatterns: ['**/*']
+         }
+      }
+   }
   ],
   pathPrefix: `/`,
 }
