@@ -18,32 +18,33 @@ export default ({data}) => (
               <div className="col-medium">
                 <div className="formgroup">
                   <label htmlFor="name">
-                    Nombre
-                    <input className="formcontrol" type="text" name="name" id="name" />
+                    Nombre*
+                    <input className="formcontrol" type="text" name="name" id="name" required />
                   </label>
                 </div>
                 <div className="formgroup">
                   <label htmlFor="email">
-                    Correo electrónico
-                    <input className="formcontrol" type="email" name="email" id="email" />
+                    Correo electrónico*
+                    <input className="formcontrol" type="email" name="email" id="email" required />
                   </label>
                 </div>
                 <div className="formgroup">
                   <label htmlFor="tel">
-                    Teléfono
-                    <input className="formcontrol" type="tel" name="tel" id="tel" />
+                    Teléfono*
+                    <input className="formcontrol" type="tel" name="tel" id="tel" required />
                   </label>
                 </div>
               </div>
               <div className="col-medium">
                 <div className="formgroup">
                   <label htmlFor="problem">
-                    Problema
-                    <textarea className="formcontrol textarea" rows="7" name="problem" id="problem"/>
+                    Problema*
+                    <textarea className="formcontrol textarea" rows="7" name="problem" id="problem" required />
                   </label>
                 </div>
               </div>
               <div className="col-fullwidth text-center">
+               <p class="small-text">El * indica que el campo es requerido.</p>
                 <div className="formgroup">
                   <div className="g-recaptcha text-center" data-sitekey={data.site.siteMetadata.contact.reCAPTCHA_key}></div>
                 </div>
