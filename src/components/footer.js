@@ -1,9 +1,10 @@
 import React from "react"
 import '../utils/fontawesome'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { Link } from "gatsby"
 
 export default () => (
-    <footer className="mt-3 pb-3">
+    <footer className="mt-3">
         <hr className="mb-3" />
         <div className="text-center">
             <ul className="justify-center flex">
@@ -34,7 +35,29 @@ export default () => (
                 </li>
             </ul>
         </div>
-        
-        
+        <div className="text-center">
+            <ul className="justify-center flex">
+                <li className="list-item">
+                    <Link to="/aviso-legal" className="small-text">
+                        Aviso legal
+                    </Link>
+                </li>
+                <li className="list-item">
+                    <Link to="/politica-de-privacidad" className="small-text">
+                        Política de privacidad
+                    </Link>
+                </li>
+                <li className="list-item">
+                    <Link to="/politica-de-cookies" className="small-text">
+                        Política de cookies
+                    </Link>
+                </li>
+                <li className="list-item">
+                    <Link to="/condiciones-de-uso" className="small-text">
+                        Condiciones de uso
+                    </Link>
+                </li>
+            </ul>
+        </div>
     </footer>
 )

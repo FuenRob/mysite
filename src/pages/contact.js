@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import { Helmet } from "react-helmet"
 import Layout from "../components/layout"
+import { Link } from "gatsby"
 
 export default ({data}) => (
     <Layout>
@@ -44,9 +45,12 @@ export default ({data}) => (
                 </div>
               </div>
               <div className="col-fullwidth text-center">
-               <p class="small-text">El * indica que el campo es requerido.</p>
+               <p className="small-text">El * indica que el campo es requerido.</p>
                 <div className="formgroup">
                   <div className="g-recaptcha text-center" data-sitekey={data.site.siteMetadata.contact.reCAPTCHA_key}></div>
+                </div>
+                <div className="formgroup">
+                  <input type="checkbox" name="acceptConditions" required /> Acepto la <Link to="/politica-de-privacidad">política de privacidad</Link>.
                 </div>
                 <button type="submit" className="btn btn-primary">Enviar</button>
               </div>

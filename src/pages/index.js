@@ -10,14 +10,15 @@ export default ({ data }) => {
           Mis publicaciones
         </h1>
         {data.allMarkdownRemark.edges.map(({ node }) => (
-          <Article key={node.id}
-            id={node.id}
-            slug={node.fields.slug}
-            title={node.frontmatter.title}
-            date={node.frontmatter.date}
-            excerpt={node.excerpt}
-            cover={node.frontmatter.cover}
-          />
+          !!node.frontmatter.date ?
+            <Article key={node.id}
+              id={node.id}
+              slug={node.fields.slug}
+              title={node.frontmatter.title}
+              date={node.frontmatter.date}
+              excerpt={node.excerpt}
+              cover={node.frontmatter.cover}
+            /> : null
         ))}
     </Layout>
   )
