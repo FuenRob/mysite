@@ -3,10 +3,11 @@
 <url> <loc>https://www.fuenrob.com/aviso-legal/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.fuenrob.com/condiciones-de-uso/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.fuenrob.com/politica-de-cookies/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.fuenrob.com/politica-de-privacidad/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.fuenrob.com/blog/configurar-docker-con-xdebug-y-vscode/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.fuenrob.com/politica-de-privacidad/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.fuenrob.com/blog/crud-de-usuarios-en-nodejs-parte-1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.fuenrob.com/blog/un-blog-en-gatsbyjs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.fuenrob.com/blog/crud-de-usuarios-en-nodejs-parte-2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.fuenrob.com/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.fuenrob.com/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.fuenrob.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
