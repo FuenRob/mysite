@@ -3,34 +3,37 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import Article from "../components/article"
 
-export default ({ data }) => {
-  return (
-    <Layout>
-        <h1 className="title">
-          Mis publicaciones
-        </h1>
-        {data.allMarkdownRemark.edges.map(({ node }) => (
+export default class BlogList extends React.Component {
+  render() {
+    const posts = this.props.data.allMarkdownRemark.edges
+    return (
+      <Layout>
+        {posts.map(({ node }) => {
+          const title = node.frontmatter.title || node.fields.slug
+          return (
             <Article key={node.id}
               id={node.id}
               slug={node.fields.slug}
-              title={node.frontmatter.title}
+              title={title}
               date={node.frontmatter.date}
               excerpt={node.excerpt}
               cover={node.frontmatter.cover}
             />
-        ))}
-    </Layout>
-  )
+          )
+        })}
+      </Layout>
+    )
+  }
 }
 
-export const query = graphql`
-  query {
+export const blogListQuery = graphql`
+  query blogListQuery($skip: Int!, $limit: Int!) {
     allMarkdownRemark(
-        filter: {frontmatter: {date: {ne: null}}}
-        sort: { fields: [frontmatter___date], order: DESC }
-        limit: 5
-      ) {
-      totalCount
+      filter: {frontmatter: {date: {ne: null}}}
+      sort: { fields: [frontmatter___date], order: DESC }
+      limit: $limit
+      skip: $skip
+    ) {
       edges {
         node {
           id
