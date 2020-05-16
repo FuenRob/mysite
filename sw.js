@@ -83,6 +83,10 @@ self.__precacheManifest = [
     "revision": "a4bd61c29e839503184c4db8aa2f6b9c"
   },
   {
+    "url": "blog/crud-de-usuarios-en-nodejs-parte-3/index.html",
+    "revision": "88afd6124cb40293c4d7ae79f00899be"
+  },
+  {
     "url": "blog/un-blog-en-gatsbyjs/index.html",
     "revision": "8de85ac3547a4b2f19ebaf828ab51471"
   },
@@ -163,7 +167,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "b70e4de2789994d5a94813fe5fbaced3"
+    "revision": "f25670586686e5f13aa94a7aeba95688"
   },
   {
     "url": "manifest.webmanifest",
@@ -206,6 +210,10 @@ self.__precacheManifest = [
     "revision": "aeb28ffa1c116b09ae9e5fb691dbb0ce"
   },
   {
+    "url": "page-data/blog/crud-de-usuarios-en-nodejs-parte-3/page-data.json",
+    "revision": "6bc32f61519a42391b247f0f57b3a5b9"
+  },
+  {
     "url": "page-data/blog/un-blog-en-gatsbyjs/page-data.json",
     "revision": "814064936cb8d5e1fbf009d9f488ba43"
   },
@@ -219,7 +227,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "a16d42f326c78d81b65872e9692a01eb"
+    "revision": "02145ab1556646b4658e20dd0fa9ad79"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -247,7 +255,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap.xml",
-    "revision": "7eaac7923f0b5b6a031c5219650f94b4"
+    "revision": "7be295491180a894041fd698fc06e2b2"
   },
   {
     "url": "static/13f79d1fb92f130327434f44b966716d/0f3a1/image-post1.jpg"
