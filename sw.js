@@ -28,18 +28,18 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "dc9a8ca7d386fdc6ccab71dbf5238c71"
+    "revision": "b313754f014495a11c45925326b3241e"
   },
   {
     "url": "404/index.html",
-    "revision": "ecb4c185dd34e05d7647d8f9b299b148"
+    "revision": "eba91a4e458f0773357e0bbbed029aab"
   },
   {
-    "url": "69ca9dfa785447e3d8b116b383997bcdc8df623a-e5f23bdcda77cd3d107e.js"
+    "url": "5b3513a32482471b7563a5aaec54ca307e0f774d-e5f23bdcda77cd3d107e.js"
   },
   {
-    "url": "69ca9dfa785447e3d8b116b383997bcdc8df623a-e5f23bdcda77cd3d107e.js.map",
-    "revision": "aadbed59a0b18bdfbd676cb5e3a83b0e"
+    "url": "5b3513a32482471b7563a5aaec54ca307e0f774d-e5f23bdcda77cd3d107e.js.map",
+    "revision": "29884a0467242e1fdbde4a26f42c424f"
   },
   {
     "url": "a9a7754c-ee96fd59234b9b1c3c36.js"
@@ -50,56 +50,57 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "07039883f36230e259de1dd183582678"
+    "revision": "544057eaf2454521a2293cfb0b8b0d95"
   },
   {
-    "url": "app-e47e8accb4c34945e4f8.js"
+    "url": "app-f77513aa15f3f26d735d.js"
   },
   {
-    "url": "app-e47e8accb4c34945e4f8.js.map",
-    "revision": "18786e076418f2042436429aefb65c70"
+    "url": "app-f77513aa15f3f26d735d.js.map",
+    "revision": "4f89fc6bcb400b0df2c6c0fb45431455"
   },
   {
     "url": "aviso-legal/index.html",
-    "revision": "bbb6625cb595a26f954abecae555aee3"
+    "revision": "5f12a0f6e022ab466db2a7eb934d2514"
   },
   {
-    "url": "b6af9739c9a830b31df685647e62250f52a69803-0415fe71ddaed5e36ee7.js"
-  },
-  {
-    "url": "b6af9739c9a830b31df685647e62250f52a69803-0415fe71ddaed5e36ee7.js.map",
-    "revision": "aa43f5dd8ff0d982a13a6319a9e2fd59"
+    "url": "blog/2/index.html",
+    "revision": "548fcaab055109aa8a613434fce764c1"
   },
   {
     "url": "blog/configurar-docker-con-xdebug-y-vscode/index.html",
-    "revision": "e81e27c2122988a13216483450a7c65c"
+    "revision": "435d8f9576447001a492afa3691e1308"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-1/index.html",
-    "revision": "36c55fc7e0516420d74c841834121fab"
+    "revision": "45c6b02f1e8ac72369cd246e5938098c"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-2/index.html",
-    "revision": "a4bd61c29e839503184c4db8aa2f6b9c"
+    "revision": "b2e856833e0120f4fcdef6887b65ab6d"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-3/index.html",
-    "revision": "88afd6124cb40293c4d7ae79f00899be"
+    "revision": "3fd59b4c0fe25383b9af19998ff58177"
+  },
+  {
+    "url": "blog/index.html",
+    "revision": "e6b16ab4dc4036674424bdb48f7aed6b"
   },
   {
     "url": "blog/un-blog-en-gatsbyjs/index.html",
-    "revision": "8de85ac3547a4b2f19ebaf828ab51471"
+    "revision": "50ca63a34bbd89ff16ac413256266d02"
   },
   {
-    "url": "cb1608f2-c1de7097eefdc5002486.js"
+    "url": "cb1608f2-09726aaf060f570ced18.js"
   },
   {
-    "url": "cb1608f2-c1de7097eefdc5002486.js.map",
-    "revision": "8b42620d1813b2148e1066f9915cb9fc"
+    "url": "cb1608f2-09726aaf060f570ced18.js.map",
+    "revision": "83efdaeb64bc59ee6affab4b8cd95780"
   },
   {
     "url": "chunk-map.json",
-    "revision": "677cbad5ddc0ff84b253372c23c7e0e0"
+    "revision": "05b4ee8c26a28a70c5d667091812cb28"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-ab12cfe2f77aa8ed5f67.js"
@@ -116,58 +117,72 @@ self.__precacheManifest = [
     "revision": "046485f0d08251a133bd6e3ef82e1c2b"
   },
   {
-    "url": "component---src-pages-about-js-d33814c3d320910937cd.js"
+    "url": "component---src-pages-about-js-97dbef458c785ba5b972.js"
   },
   {
-    "url": "component---src-pages-about-js-d33814c3d320910937cd.js.map",
-    "revision": "c6c1636639e1329d0d5745f58666bb94"
+    "url": "component---src-pages-about-js-97dbef458c785ba5b972.js.map",
+    "revision": "11a4f9a7c5a72463c892b824d22e08df"
   },
   {
-    "url": "component---src-pages-contact-js-50f207eb7753228a5ab4.js"
+    "url": "component---src-pages-contact-js-b67815ae0d9a2c0bf4ed.js"
   },
   {
-    "url": "component---src-pages-contact-js-50f207eb7753228a5ab4.js.map",
-    "revision": "c4d1b5c824a01168a540dc9f062f909e"
+    "url": "component---src-pages-contact-js-b67815ae0d9a2c0bf4ed.js.map",
+    "revision": "708efe43eee0bba09595101000e797ba"
   },
   {
-    "url": "component---src-pages-index-js-6f829890dc7ed67cdff4.js"
+    "url": "component---src-pages-index-js-842629c410e43a4c6bfe.js"
   },
   {
-    "url": "component---src-pages-index-js-6f829890dc7ed67cdff4.js.map",
-    "revision": "c240b2c650c6755f5b10373602f9d2f2"
+    "url": "component---src-pages-index-js-842629c410e43a4c6bfe.js.map",
+    "revision": "1ef2953a40a52bf506ef7cb6cbc87a9e"
   },
   {
-    "url": "component---src-templates-blog-post-js-32455e539c17ac925324.js"
+    "url": "component---src-templates-blog-list-js-5a42bef6dce6470408bf.js"
   },
   {
-    "url": "component---src-templates-blog-post-js-32455e539c17ac925324.js.map",
-    "revision": "9db7c5cd50b97bbf3b91eed4a7ce566b"
+    "url": "component---src-templates-blog-list-js-5a42bef6dce6470408bf.js.map",
+    "revision": "01d802fbb5ad4a016a2f6afd089371b7"
+  },
+  {
+    "url": "component---src-templates-blog-post-js-34ced276cf5b277075ab.js"
+  },
+  {
+    "url": "component---src-templates-blog-post-js-34ced276cf5b277075ab.js.map",
+    "revision": "eca5b12310b525fd6518a20acdb82ba0"
   },
   {
     "url": "condiciones-de-uso/index.html",
-    "revision": "8563ef355f72c819f6c8fff22588fda3"
+    "revision": "7e728b516d3c960964aa4aca34ee6d4b"
   },
   {
     "url": "contact/index.html",
-    "revision": "19e6223d22dd3d06fe339c3e3b969575"
+    "revision": "14f0ca2ab3a071fe0086745c37f7a721"
+  },
+  {
+    "url": "d3e0ddf8626fa0443a290073f4e52e7484009146-b94da1d603d6d98b52fe.js"
+  },
+  {
+    "url": "d3e0ddf8626fa0443a290073f4e52e7484009146-b94da1d603d6d98b52fe.js.map",
+    "revision": "1ce16a809b56aacee7800829fd41569a"
   },
   {
     "url": "favicon.ico",
     "revision": "3a318e3ceb32f2e06b497c0795ae14cb"
   },
   {
-    "url": "framework-a664bcaf9ba5ea30c3df.js"
+    "url": "framework-42a655f998346a20003c.js"
   },
   {
-    "url": "framework-a664bcaf9ba5ea30c3df.js.map",
-    "revision": "ecb37f72159a9b4dba60bff55374bfc0"
+    "url": "framework-42a655f998346a20003c.js.map",
+    "revision": "0db8a8d93c15a1313946a36baa79f311"
   },
   {
     "url": "idb-keyval-iife.min.js"
   },
   {
     "url": "index.html",
-    "revision": "f25670586686e5f13aa94a7aeba95688"
+    "revision": "8419374ef01e47c50d5105f38c86dc1c"
   },
   {
     "url": "manifest.webmanifest",
@@ -175,7 +190,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "c017f6f172011ef6d9ee8900d4fdb77b"
+    "revision": "4e32a232786cc489a89df76158736f3e"
   },
   {
     "url": "page-data/404.html/page-data.json",
@@ -191,11 +206,15 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "a9c8dcacd4fe16f1c014b6a6ac74700a"
+    "revision": "880de6185824e2f9171766a2559f091e"
   },
   {
     "url": "page-data/aviso-legal/page-data.json",
     "revision": "6918d675cdae32a188e6d7a02d940b74"
+  },
+  {
+    "url": "page-data/blog/2/page-data.json",
+    "revision": "694e5e1f8e15ab55872283b6ab91dd7f"
   },
   {
     "url": "page-data/blog/configurar-docker-con-xdebug-y-vscode/page-data.json",
@@ -214,6 +233,10 @@ self.__precacheManifest = [
     "revision": "6bc32f61519a42391b247f0f57b3a5b9"
   },
   {
+    "url": "page-data/blog/page-data.json",
+    "revision": "989453f68d2dfd658d0920d3cac5c566"
+  },
+  {
     "url": "page-data/blog/un-blog-en-gatsbyjs/page-data.json",
     "revision": "814064936cb8d5e1fbf009d9f488ba43"
   },
@@ -227,7 +250,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "02145ab1556646b4658e20dd0fa9ad79"
+    "revision": "370540de45beab23485401db09393ab2"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -243,11 +266,11 @@ self.__precacheManifest = [
   },
   {
     "url": "politica-de-cookies/index.html",
-    "revision": "121dc39d0e4da9f5bd340e6ab24229a0"
+    "revision": "2bf54d8cedff3b05d8fd1f66c9ae0ee3"
   },
   {
     "url": "politica-de-privacidad/index.html",
-    "revision": "9b7e6fe79cb212f83a6b986bdd6aa9c1"
+    "revision": "fcd3fbd7b557106f5b3b39ab0f9d040c"
   },
   {
     "url": "robots.txt",
@@ -255,7 +278,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap.xml",
-    "revision": "7be295491180a894041fd698fc06e2b2"
+    "revision": "836215af576255bfffc2e3da32da4737"
   },
   {
     "url": "static/13f79d1fb92f130327434f44b966716d/0f3a1/image-post1.jpg"
@@ -282,25 +305,25 @@ self.__precacheManifest = [
     "url": "static/d/664295784.json"
   },
   {
-    "url": "styles-d2f400bc950559b91852.js"
+    "url": "styles-4773e5fdece67d6f48f5.js"
   },
   {
-    "url": "styles-d2f400bc950559b91852.js.map",
-    "revision": "d39223410ec443d3fd5a1a0400f1fc7a"
+    "url": "styles-4773e5fdece67d6f48f5.js.map",
+    "revision": "41d7e5b452053b2539821ba9fafbdeae"
   },
   {
-    "url": "styles.478eeca92009ec5ccdf2.css"
+    "url": "styles.cb79d528309bad591abe.css"
   },
   {
-    "url": "webpack-runtime-26a28bf220be028c6ebe.js"
+    "url": "webpack-runtime-e1588e03eeb4ab25d905.js"
   },
   {
-    "url": "webpack-runtime-26a28bf220be028c6ebe.js.map",
-    "revision": "416a7af0a877ebbcb765ba8652c95916"
+    "url": "webpack-runtime-e1588e03eeb4ab25d905.js.map",
+    "revision": "043c2fc7d7292850d48a6a9877fd1d1a"
   },
   {
     "url": "webpack.stats.json",
-    "revision": "c3b51e960aaf8edb7659ed422a8168d1"
+    "revision": "4b351799a5ab31e3fa43fc67392e89d5"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -393,7 +416,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-e47e8accb4c34945e4f8.js`))) {
+  if (!resources || !(await caches.match(`/app-f77513aa15f3f26d735d.js`))) {
     return await fetch(event.request)
   }
 
