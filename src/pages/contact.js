@@ -10,7 +10,9 @@ export default ({data}) => (
           <Helmet>
             <script src="https://www.google.com/recaptcha/api.js"></script>
           </Helmet>
-            <h2>Si quieres contactar conmigo</h2>
+            <h1 className="title">
+              Contacto
+            </h1>
             <p>
                 Si tienes cualquier consulta o problema puedes escribirme en cualquiera de las redes sociales que están 
                 en el footer o en este formulario de contacto. Te respondere lo más rápido posible.

@@ -14,6 +14,10 @@ module.exports = {
     twitterUsername: "@FuenRob",
     menuLinks:[
       {
+        name:'Blog',
+        link:'/blog'
+      },
+      {
           name:'Sobre mí',
           link:'/about'
       },

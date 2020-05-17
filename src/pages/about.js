@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 
 export default ({ data }) => (
   <Layout>
-    <h1>Sobre {data.site.siteMetadata.title}</h1>
+    <h1 className="title">Sobre {data.site.siteMetadata.title}</h1>
     <div className="text-justify">
       <p>
         FuenRob no es mi nombre real, que decepción ¿verdad? Mi verdadero nombre en Roberto Morais y soy un desarrollador web. 

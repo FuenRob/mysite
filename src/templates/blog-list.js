@@ -1,41 +1,42 @@
 import React from "react"
-import { graphql, Link } from "gatsby"
+import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import Article from "../components/article"
 
-export default ({ data }) => {
-  return (
-    <Layout isHome={true}>
+export default class BlogList extends React.Component {
+  render() {
+    const posts = this.props.data.allMarkdownRemark.edges
+    return (
+      <Layout>
         <h1 className="title">
-          Mis publicaciones
+          Blog
         </h1>
-        {data.allMarkdownRemark.edges.map(({ node }) => (
+        {posts.map(({ node }) => {
+          const title = node.frontmatter.title || node.fields.slug
+          return (
             <Article key={node.id}
               id={node.id}
               slug={node.fields.slug}
-              title={node.frontmatter.title}
+              title={title}
               date={node.frontmatter.date}
               excerpt={node.excerpt}
               cover={node.frontmatter.cover}
             />
-        ))}
-        <div class="text-center">
-          <Link className="btn btn-primary" to="blog">
-            Ver más
-          </Link>
-        </div>
-    </Layout>
-  )
+          )
+        })}
+      </Layout>
+    )
+  }
 }
 
-export const query = graphql`
-  query {
+export const blogListQuery = graphql`
+  query blogListQuery($skip: Int!, $limit: Int!) {
     allMarkdownRemark(
-        filter: {frontmatter: {date: {ne: null}}}
-        sort: { fields: [frontmatter___date], order: DESC }
-        limit: 3
-      ) {
-      totalCount
+      filter: {frontmatter: {date: {ne: null}}}
+      sort: { fields: [frontmatter___date], order: DESC }
+      limit: $limit
+      skip: $skip
+    ) {
       edges {
         node {
           id
