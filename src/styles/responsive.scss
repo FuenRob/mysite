@@ -10,9 +10,23 @@
     }
 
     /**
+     * Header
+     */
+    .header {
+        padding-top: 5%;
+    }
+
+    /**
+     * Home
+     */
+    .banner{
+        font-size: 30px;
+    }
+
+    /**
      * Form
      */
-     .formgroup {
+    .formgroup {
         .textarea{
             height: 50px;
         }
@@ -31,6 +45,20 @@
     .col-medium{
         width: 100%;
         padding: 5px 10px;
+    }
+
+    /**
+     * Header
+     */
+    .header {
+        padding-top: 5%;
+    }
+
+    /**
+     * Home
+     */
+    .banner{
+        font-size: 30px;
     }
 
     /**

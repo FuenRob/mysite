@@ -1,11 +1,11 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import Article from "../components/article"
 
 export default ({ data }) => {
   return (
-    <Layout>
+    <Layout isHome={true}>
         <h1 className="title">
           Mis publicaciones
         </h1>
@@ -19,6 +19,11 @@ export default ({ data }) => {
               cover={node.frontmatter.cover}
             />
         ))}
+        <div class="text-center">
+          <Link className="btn btn-primary" to="blog">
+            Ver más
+          </Link>
+        </div>
     </Layout>
   )
 }
@@ -28,7 +33,7 @@ export const query = graphql`
     allMarkdownRemark(
         filter: {frontmatter: {date: {ne: null}}}
         sort: { fields: [frontmatter___date], order: DESC }
-        limit: 5
+        limit: 3
       ) {
       totalCount
       edges {

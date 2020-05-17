@@ -9,7 +9,7 @@ export default ({ data }) => {
     <Layout>
       <div className="text-justify">
         {!!post.frontmatter.cover ? <Img className="h-300" sizes={post.frontmatter.cover.childImageSharp.sizes} /> : null}
-        <h1 className="mt-3 mb-3">{post.frontmatter.title}</h1>
+        <h1 className="title mt-3 mb-3">{post.frontmatter.title}</h1>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </div>
     </Layout>

@@ -8,7 +8,6 @@
 
 .header{
     background: $secondary-color;
-    margin-bottom: 1.45rem;
 }
 
 .navbar{
@@ -33,6 +32,13 @@
             margin-bottom: inherit;
         }
     }
+}
+
+.banner {
+    background: rebeccapurple;
+    color: white;
+    padding: 5rem;
+    font-size: 50px;
 }
 
 .list-item{
@@ -138,3 +144,5 @@ article:hover{
 /**
  * End Form
  */
+
+@import 'responsive.scss';
