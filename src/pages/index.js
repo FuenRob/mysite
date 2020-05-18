@@ -19,7 +19,7 @@ export default ({ data }) => {
               cover={node.frontmatter.cover}
             />
         ))}
-        <div class="text-center">
+        <div className="text-center">
           <Link className="btn btn-primary" to="blog">
             Ver más
           </Link>

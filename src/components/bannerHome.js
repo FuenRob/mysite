@@ -3,7 +3,7 @@ import Typewriter from 'typewriter-effect';
 
 export default () => {
     return (
-        <div class="banner">
+        <div className="banner">
             <div className="container">
                 <Typewriter
                     onInit={(typewriter) => {
