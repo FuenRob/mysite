@@ -7,7 +7,7 @@
 module.exports = {
   siteMetadata: {
     title: `@FuenRob`,
-    titleTemplate: `FuenRob - Blog de desarrollo`,
+    titleTemplate: `FuenRob - Blog de desarrollo web`,
     description: `Un blog personal sobre curiosidades y conocimientos de un desarrollador web`,
     siteUrl: "https://www.fuenrob.com",
     image: "/favicon.ico", 
