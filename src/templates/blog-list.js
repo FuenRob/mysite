@@ -1,11 +1,18 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import Article from "../components/article"
 
 export default class BlogList extends React.Component {
   render() {
+    console.log(this.props.pageContext)
     const posts = this.props.data.allMarkdownRemark.edges
+    const { currentPage, numPages } = this.props.pageContext
+    const isFirst = currentPage === 1
+    const isLast = currentPage === numPages
+    const prevPage = currentPage - 1 === 1 ? "/" : (currentPage - 1).toString()
+    const nextPage = (currentPage + 1).toString()
+
     return (
       <Layout>
         <h1 className="title">
@@ -24,6 +31,22 @@ export default class BlogList extends React.Component {
             />
           )
         })}
+        <div className="flex">
+          <div className="col-medium">
+            {!isFirst && (
+            <Link className="btn btn-primary" to={"/blog/" + prevPage} rel="prev">
+              ← Previous Page
+            </Link>
+            )}
+          </div>
+          <div className="col-medium text-right">
+            {!isLast && (
+              <Link className="btn btn-primary" to={"/blog/" + nextPage} rel="next">
+                Next Page →
+              </Link>
+            )}
+          </div>
+        </div>
       </Layout>
     )
   }
