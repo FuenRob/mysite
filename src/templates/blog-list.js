@@ -35,14 +35,14 @@ export default class BlogList extends React.Component {
           <div className="col-medium">
             {!isFirst && (
             <Link className="btn btn-primary" to={"/blog/" + prevPage} rel="prev">
-              ← Previous Page
+              ← Página anterior
             </Link>
             )}
           </div>
           <div className="col-medium text-right">
             {!isLast && (
               <Link className="btn btn-primary" to={"/blog/" + nextPage} rel="next">
-                Next Page →
+                Página siguiente →
               </Link>
             )}
           </div>
