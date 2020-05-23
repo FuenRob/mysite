@@ -28,11 +28,11 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "a4673db7dcabd2e62250b8e59c2463d5"
+    "revision": "dc636461af60b5d4f68b82c17b6b7f10"
   },
   {
     "url": "404/index.html",
-    "revision": "c7886035a90a67ebabae116e4d00718d"
+    "revision": "6b532fa4b8501f207a41d9d1293d8e56"
   },
   {
     "url": "5b3513a32482471b7563a5aaec54ca307e0f774d-e5f23bdcda77cd3d107e.js"
@@ -50,46 +50,50 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "51708fc783c73d134353323517a65f8c"
+    "revision": "32aa5045099a99054400243ed91a2111"
   },
   {
-    "url": "app-f77513aa15f3f26d735d.js"
+    "url": "app-595e1ca223fbcc778599.js"
   },
   {
-    "url": "app-f77513aa15f3f26d735d.js.map",
-    "revision": "4f89fc6bcb400b0df2c6c0fb45431455"
+    "url": "app-595e1ca223fbcc778599.js.map",
+    "revision": "989f9dca8930269b87bf313bcc21dfe6"
   },
   {
     "url": "aviso-legal/index.html",
-    "revision": "8fdf0e1ba7a6739deb7236bee42233d4"
+    "revision": "1e4acc0af039e7cab6ba56bba217d861"
   },
   {
     "url": "blog/2/index.html",
-    "revision": "1d8a379e5fd09f6b66183ff7b06f144a"
+    "revision": "ec2ff0428ff53c5d6f49298bf6ea3efe"
   },
   {
     "url": "blog/configurar-docker-con-xdebug-y-vscode/index.html",
-    "revision": "45005c966f471aeb2205a855776bdb46"
+    "revision": "95f5b4956e73f98686fb50ac28493be9"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-1/index.html",
-    "revision": "31eb0c1fda1afdb435bb09b526caf441"
+    "revision": "05f72bdd8c476e9611f04d2d3312533b"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-2/index.html",
-    "revision": "11fcc9986183cacdfdc271bdfc7c42ae"
+    "revision": "034bdda08b2d14f24f9e953d0d6ec4d6"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-3/index.html",
-    "revision": "b3d9982db95fb6f8c1819691b467b46b"
+    "revision": "39a78d15a9b5eff1adf4542c0c2b9b72"
   },
   {
     "url": "blog/index.html",
-    "revision": "b9a3d8382169b97b141d940e4ce50e21"
+    "revision": "be59d0fae719655401eed692feff79b2"
   },
   {
     "url": "blog/un-blog-en-gatsbyjs/index.html",
-    "revision": "a07d7a62defaca4c03801e97c466d99a"
+    "revision": "1c30b0c28f275857b22ef105e58c6378"
+  },
+  {
+    "url": "blog/usar-prestashop-17-con-docker-compose/index.html",
+    "revision": "ad2d5663008f67b65516873c9d868b4e"
   },
   {
     "url": "cb1608f2-09726aaf060f570ced18.js"
@@ -100,7 +104,7 @@ self.__precacheManifest = [
   },
   {
     "url": "chunk-map.json",
-    "revision": "b2c448848385276eb8b9ef7a3cf6356b"
+    "revision": "9469affbb7ef9d7369f3a2bec0916301"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-ab12cfe2f77aa8ed5f67.js"
@@ -131,6 +135,13 @@ self.__precacheManifest = [
     "revision": "af2b5703e94195eaf78ac4b57d1dc829"
   },
   {
+    "url": "component---src-pages-index-js-5318602309b065c6b93f.js"
+  },
+  {
+    "url": "component---src-pages-index-js-5318602309b065c6b93f.js.map",
+    "revision": "b4247fda2c80bd8ba73eaf771b1ba527"
+  },
+  {
     "url": "component---src-pages-index-js-7b41bb03568138437041.js"
   },
   {
@@ -138,26 +149,33 @@ self.__precacheManifest = [
     "revision": "d1117c1a885918b4b141b364e509619f"
   },
   {
-    "url": "component---src-templates-blog-list-js-5a42bef6dce6470408bf.js"
+    "url": "component---src-templates-blog-list-js-1485ad81c52f6b15c971.js"
   },
   {
-    "url": "component---src-templates-blog-list-js-5a42bef6dce6470408bf.js.map",
-    "revision": "01d802fbb5ad4a016a2f6afd089371b7"
+    "url": "component---src-templates-blog-list-js-1485ad81c52f6b15c971.js.map",
+    "revision": "4651a54299c792060973735f8aa78f13"
   },
   {
-    "url": "component---src-templates-blog-post-js-02c901414b0b7cdb9b00.js"
+    "url": "component---src-templates-blog-post-js-1c8a02bc1b1b088ef87a.js"
   },
   {
-    "url": "component---src-templates-blog-post-js-02c901414b0b7cdb9b00.js.map",
-    "revision": "f83437347d43110a7020d601addb45b7"
+    "url": "component---src-templates-blog-post-js-1c8a02bc1b1b088ef87a.js.map",
+    "revision": "24816e9dd601e254c24cd5e183ee1939"
+  },
+  {
+    "url": "component---src-templates-blog-post-js-6ae2ebee1104056a2b97.js"
+  },
+  {
+    "url": "component---src-templates-blog-post-js-6ae2ebee1104056a2b97.js.map",
+    "revision": "c05fcbf193122d7af2aabbe063ea96a9"
   },
   {
     "url": "condiciones-de-uso/index.html",
-    "revision": "7dc7e62d303e31e2a086fb597d596bc7"
+    "revision": "aa1179f167ba1ea88ad96b4023df6a67"
   },
   {
     "url": "contact/index.html",
-    "revision": "9342d4ca19a78bc00c0aa58e7482738f"
+    "revision": "5bf32b2c8a4b502bcd447e3fea47b42f"
   },
   {
     "url": "d3e0ddf8626fa0443a290073f4e52e7484009146-ee82fbe867d2a6f79747.js"
@@ -182,7 +200,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "c50d4301a754557d7a5d66545d184620"
+    "revision": "c5ef0521eb383733c8a4cfd130cd46f1"
   },
   {
     "url": "manifest.webmanifest",
@@ -190,7 +208,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "d4ae460f371a7cd566e1ca07eca3bcc4"
+    "revision": "9491b6c63564b787be27244cc9f1003f"
   },
   {
     "url": "page-data/404.html/page-data.json",
@@ -206,51 +224,59 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "aa530e236643bf52be8c278330ea49c8"
+    "revision": "d389278d4799196ab68fa631b58cecc3"
   },
   {
     "url": "page-data/aviso-legal/page-data.json",
-    "revision": "6918d675cdae32a188e6d7a02d940b74"
+    "revision": "c35932a5c06caaa32fba710cc8a1df0c"
   },
   {
     "url": "page-data/blog/2/page-data.json",
-    "revision": "694e5e1f8e15ab55872283b6ab91dd7f"
+    "revision": "bc8a2232a0872f8b38ba3fdb6167884a"
   },
   {
     "url": "page-data/blog/configurar-docker-con-xdebug-y-vscode/page-data.json",
-    "revision": "6f0392252f8ce7340f312b304a275f66"
+    "revision": "de0b33ea55f4ab0d4c2422b0d42484be"
   },
   {
     "url": "page-data/blog/crud-de-usuarios-en-nodejs-parte-1/page-data.json",
-    "revision": "da4f02cef51743cfc513f14ab3db27ce"
+    "revision": "e04c6cf80a606a894de7b549a873e58e"
   },
   {
     "url": "page-data/blog/crud-de-usuarios-en-nodejs-parte-2/page-data.json",
-    "revision": "aeb28ffa1c116b09ae9e5fb691dbb0ce"
+    "revision": "b252425a3ae5f2d49d902ab43b3f8993"
   },
   {
     "url": "page-data/blog/crud-de-usuarios-en-nodejs-parte-3/page-data.json",
-    "revision": "6bc32f61519a42391b247f0f57b3a5b9"
+    "revision": "edda1f9f356d4fc5d72ee0fa1dcd176f"
   },
   {
     "url": "page-data/blog/page-data.json",
-    "revision": "989453f68d2dfd658d0920d3cac5c566"
+    "revision": "6d938ff0db0f4e84c80a996741c2e557"
   },
   {
     "url": "page-data/blog/un-blog-en-gatsbyjs/page-data.json",
-    "revision": "814064936cb8d5e1fbf009d9f488ba43"
+    "revision": "ed5d6450c7e3d0a3d3edc345343db043"
+  },
+  {
+    "url": "page-data/blog/usar-prestashop-17-con-docker-compose/page-data.json",
+    "revision": "87195d515ae30970ad08d7b247d371c6"
   },
   {
     "url": "page-data/condiciones-de-uso/page-data.json",
-    "revision": "42ae659877e6e8df3cc23f9beb46d245"
+    "revision": "3effd1d1f431834163cd314360e8f082"
   },
   {
     "url": "page-data/contact/page-data.json",
     "revision": "834bbf3d543e4072836a33f9371aa512"
   },
   {
+    "url": "page-data/dev-404-page/page-data.json",
+    "revision": "3ddbf225a4a90621e6ec493f9fdf5716"
+  },
+  {
     "url": "page-data/index/page-data.json",
-    "revision": "370540de45beab23485401db09393ab2"
+    "revision": "6aad2e60174b31b7665891bc28140848"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -258,19 +284,19 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/politica-de-cookies/page-data.json",
-    "revision": "283d3422c6db2720f18c6f3ff2d11512"
+    "revision": "89e3df95470372493f426cf3ee9a9768"
   },
   {
     "url": "page-data/politica-de-privacidad/page-data.json",
-    "revision": "3485ef8ab781e1c2110641485c2378af"
+    "revision": "194d70f28f18446eb7918b3ff2a4e49e"
   },
   {
     "url": "politica-de-cookies/index.html",
-    "revision": "1fffc4e3e0d587cba71a20c8537a92fa"
+    "revision": "b703af270e73696a59622d35d68e8782"
   },
   {
     "url": "politica-de-privacidad/index.html",
-    "revision": "3b05d1c7721799a2299a862afc5637a4"
+    "revision": "4e4097f650caf31795c32b8f29037959"
   },
   {
     "url": "robots.txt",
@@ -278,7 +304,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap.xml",
-    "revision": "836215af576255bfffc2e3da32da4737"
+    "revision": "6b475b684dffb896cb8a03a9b44d0318"
   },
   {
     "url": "static/13f79d1fb92f130327434f44b966716d/0f3a1/image-post1.jpg"
@@ -312,18 +338,25 @@ self.__precacheManifest = [
     "revision": "41d7e5b452053b2539821ba9fafbdeae"
   },
   {
-    "url": "styles.cb79d528309bad591abe.css"
+    "url": "styles.aea0316bae1e7196f15a.css"
   },
   {
-    "url": "webpack-runtime-16652c10998a557f27c9.js"
+    "url": "webpack-runtime-3c0612e77ee523ad244b.js"
   },
   {
-    "url": "webpack-runtime-16652c10998a557f27c9.js.map",
-    "revision": "b76f41e0afb77304805b3a5ddf262ed8"
+    "url": "webpack-runtime-3c0612e77ee523ad244b.js.map",
+    "revision": "cea3fc5e102ee939479008fd6f85ccf8"
+  },
+  {
+    "url": "webpack-runtime-4a3bd895045a9a5960d0.js"
+  },
+  {
+    "url": "webpack-runtime-4a3bd895045a9a5960d0.js.map",
+    "revision": "4d1b46d89df744c04af03adc98712b38"
   },
   {
     "url": "webpack.stats.json",
-    "revision": "716391efa4d3e307ec7576ebf69814a7"
+    "revision": "186d34423f21655c138dd92aa9157956"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -416,7 +449,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-f77513aa15f3f26d735d.js`))) {
+  if (!resources || !(await caches.match(`/app-595e1ca223fbcc778599.js`))) {
     return await fetch(event.request)
   }
 
