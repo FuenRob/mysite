@@ -65,7 +65,7 @@ export const blogListQuery = graphql`
           id
           frontmatter {
             title
-            date(formatString: "DD MMMM, YYYY")
+            date(formatString: "DD MMMM, YYYY", locale: "es")
             cover {
               publicURL
               childImageSharp {
