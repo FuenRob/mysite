@@ -20,7 +20,7 @@ export default ({ data }) => {
             />
         ))}
         <div className="text-center">
-          <Link className="btn btn-primary" to="blog">
+          <Link className="btn btn-primary" to="/blog">
             Ver más
           </Link>
         </div>

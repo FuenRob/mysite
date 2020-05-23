@@ -26,8 +26,8 @@ module.exports = {
           link:'/contact'
       }
     ],
-    contact: {
-      reCAPTCHA_key: `6LesFu4UAAAAAORkhM-zPnykd4NqLWAq4v_YKLr_`
+    comments: {
+      GATSBY_DISQUS_NAME: `fuenrob`
     },
   },
   plugins: [
