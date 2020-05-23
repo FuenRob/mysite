@@ -28,11 +28,11 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "79668ee1dd1f3553ae3e022901a738d4"
+    "revision": "14c4a800e17005ce635cc0d9aebd21e9"
   },
   {
     "url": "404/index.html",
-    "revision": "36ff380a891b05bb951af9c945b6159b"
+    "revision": "be47dcac3807f90d59a3cebc1331c468"
   },
   {
     "url": "5b3513a32482471b7563a5aaec54ca307e0f774d-e5f23bdcda77cd3d107e.js"
@@ -50,7 +50,7 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "5312afaf25d5b58fab61a0b4a3308997"
+    "revision": "d4fccb5b8fa4b2d1e174878828b817e1"
   },
   {
     "url": "app-595e1ca223fbcc778599.js"
@@ -61,39 +61,39 @@ self.__precacheManifest = [
   },
   {
     "url": "aviso-legal/index.html",
-    "revision": "18d1eaf4ae610bcd87b43d1f3de9d845"
+    "revision": "6146b12f9a6a713536a00bdbe8bf81bf"
   },
   {
     "url": "blog/2/index.html",
-    "revision": "1d968cc4edd9e68a95c73427c5664fa8"
+    "revision": "83ccdaea42296fe19d761e17c6876bdf"
   },
   {
     "url": "blog/configurar-docker-con-xdebug-y-vscode/index.html",
-    "revision": "5848307d83b753aa2d61d0c171253489"
+    "revision": "8d849419d0f036678f75440c610ebb11"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-1/index.html",
-    "revision": "cf2f37a1d785ee5ee8d59d64b0ba6013"
+    "revision": "00dc2f67b8246aeed9165738883d63f8"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-2/index.html",
-    "revision": "99083f7581a0cc24b2ee83ad5a00aaf2"
+    "revision": "e12e319e6760bb06503b94950f0bcdc4"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-3/index.html",
-    "revision": "660ff430b4d7816d034f79e1734659bd"
+    "revision": "683e2630dc03b0a211f80eba0c1dd97f"
   },
   {
     "url": "blog/index.html",
-    "revision": "e0e75bb2eb5a69756c3b11b368fd55a8"
+    "revision": "6852872a29529b69fab981f1a991ea24"
   },
   {
     "url": "blog/un-blog-en-gatsbyjs/index.html",
-    "revision": "7f3df670e8eff0db4411ed7b160eed23"
+    "revision": "1540c0bb50e6cee07c0757a6212d6251"
   },
   {
     "url": "blog/usar-prestashop-17-con-docker-compose/index.html",
-    "revision": "ac5fbb2b5553b3a00d85a4356724bd86"
+    "revision": "db648a0c292ecdda37e207e2a02061b2"
   },
   {
     "url": "cb1608f2-09726aaf060f570ced18.js"
@@ -104,7 +104,7 @@ self.__precacheManifest = [
   },
   {
     "url": "chunk-map.json",
-    "revision": "03ed53363c85011fa749213732fcd096"
+    "revision": "353eac8cff70176731bf2535cc733c2d"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-ab12cfe2f77aa8ed5f67.js"
@@ -135,18 +135,18 @@ self.__precacheManifest = [
     "revision": "af2b5703e94195eaf78ac4b57d1dc829"
   },
   {
-    "url": "component---src-pages-index-js-5318602309b065c6b93f.js"
+    "url": "component---src-pages-index-js-3fba11bf5f43d4a33252.js"
   },
   {
-    "url": "component---src-pages-index-js-5318602309b065c6b93f.js.map",
-    "revision": "b4247fda2c80bd8ba73eaf771b1ba527"
+    "url": "component---src-pages-index-js-3fba11bf5f43d4a33252.js.map",
+    "revision": "d52fb0a919d3cc0694011248754dab11"
   },
   {
-    "url": "component---src-templates-blog-list-js-2fa5ac2915a253458911.js"
+    "url": "component---src-templates-blog-list-js-a65c26ba8bebc0fcf54e.js"
   },
   {
-    "url": "component---src-templates-blog-list-js-2fa5ac2915a253458911.js.map",
-    "revision": "aaa921cd636c7cec1753164e69f168e4"
+    "url": "component---src-templates-blog-list-js-a65c26ba8bebc0fcf54e.js.map",
+    "revision": "9568ab4ff0a08fd21c34b4ef652aa99b"
   },
   {
     "url": "component---src-templates-blog-post-js-6ae2ebee1104056a2b97.js"
@@ -157,11 +157,11 @@ self.__precacheManifest = [
   },
   {
     "url": "condiciones-de-uso/index.html",
-    "revision": "da02e93a9f257616026cbf90e8187e80"
+    "revision": "42c767b60ed05f573fbcb0097fa56f55"
   },
   {
     "url": "contact/index.html",
-    "revision": "330a7a6ea8419068b1548bc33f01febd"
+    "revision": "9d3ccc9644ea082ba51ea499181c13f3"
   },
   {
     "url": "d3e0ddf8626fa0443a290073f4e52e7484009146-ee82fbe867d2a6f79747.js"
@@ -186,7 +186,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "abf1847655cbef5489976c75cc9c4754"
+    "revision": "c5817e1a6fd492cdea8cba244ab2d076"
   },
   {
     "url": "manifest.webmanifest",
@@ -194,7 +194,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "8098a694a0f6a31425fe0421b9da3d67"
+    "revision": "b33bacf32c4c878bba2635d00825388b"
   },
   {
     "url": "page-data/404.html/page-data.json",
@@ -210,7 +210,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "4be6b240cd5190974f41c8c950da5508"
+    "revision": "4f5c388140f39c56bf0130c617b37adf"
   },
   {
     "url": "page-data/aviso-legal/page-data.json",
@@ -218,7 +218,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/2/page-data.json",
-    "revision": "bc8a2232a0872f8b38ba3fdb6167884a"
+    "revision": "d322097547cd4163360798d8a2daa61c"
   },
   {
     "url": "page-data/blog/configurar-docker-con-xdebug-y-vscode/page-data.json",
@@ -238,7 +238,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/page-data.json",
-    "revision": "2bd8beb0f11ddce08a96aeab08176628"
+    "revision": "1eed9ef488fba905f2789974064318d5"
   },
   {
     "url": "page-data/blog/un-blog-en-gatsbyjs/page-data.json",
@@ -257,8 +257,12 @@ self.__precacheManifest = [
     "revision": "834bbf3d543e4072836a33f9371aa512"
   },
   {
+    "url": "page-data/dev-404-page/page-data.json",
+    "revision": "d67218e7a44425ecdbde516dbe24f84f"
+  },
+  {
     "url": "page-data/index/page-data.json",
-    "revision": "7d4890c2af037c8d3bf6c09448e47181"
+    "revision": "2b1682208ae569ac624cbc317fdda100"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -274,11 +278,11 @@ self.__precacheManifest = [
   },
   {
     "url": "politica-de-cookies/index.html",
-    "revision": "4e643a1be5b14e7c2fb987e5b2025377"
+    "revision": "6042dda61901746d348a2793506df18b"
   },
   {
     "url": "politica-de-privacidad/index.html",
-    "revision": "fa7694444c0888aa98d363294a94705d"
+    "revision": "6441ddbf3a2b2a1fc80cbe33cb553b88"
   },
   {
     "url": "robots.txt",
@@ -335,15 +339,15 @@ self.__precacheManifest = [
     "url": "styles.b67c49ebaa15e159c109.css"
   },
   {
-    "url": "webpack-runtime-bcb8b4e3746982762ef4.js"
+    "url": "webpack-runtime-ebfabf86294c5b3799ee.js"
   },
   {
-    "url": "webpack-runtime-bcb8b4e3746982762ef4.js.map",
-    "revision": "a03b9746221b798159b21f65f32ddfca"
+    "url": "webpack-runtime-ebfabf86294c5b3799ee.js.map",
+    "revision": "43d767372bd43013a13fabbee7ce084a"
   },
   {
     "url": "webpack.stats.json",
-    "revision": "5dc90038ef43ba2fdf63da8bcabe0f1d"
+    "revision": "f5d5e3fd19185ce9ad2683f61cad35d8"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
