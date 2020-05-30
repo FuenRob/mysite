@@ -102,15 +102,15 @@ module.exports = {
       options: {
         cache_busting_mode: 'none'
       }
-   },
-   {
+    },
+    {
       resolve: 'gatsby-plugin-offline',
       options: {
-         workboxConfig: {
+          workboxConfig: {
             globPatterns: ['**/*']
-         }
+          }
       }
-   }
+    }
   ],
   pathPrefix: `/`,
 }
