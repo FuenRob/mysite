@@ -65,7 +65,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/2/index.html",
-    "revision": "83ccdaea42296fe19d761e17c6876bdf"
+    "revision": "bebc682c66fc9dd070f1941a340e7f5f"
   },
   {
     "url": "blog/configurar-docker-con-xdebug-y-vscode/index.html",
@@ -84,8 +84,12 @@ self.__precacheManifest = [
     "revision": "683e2630dc03b0a211f80eba0c1dd97f"
   },
   {
+    "url": "blog/generar-json-web-token-en-nodejs/index.html",
+    "revision": "4285543db920bbcf1aa8a7857f16a7e8"
+  },
+  {
     "url": "blog/index.html",
-    "revision": "6852872a29529b69fab981f1a991ea24"
+    "revision": "cf655fd4539c09a697a7c08dd5370b7d"
   },
   {
     "url": "blog/un-blog-en-gatsbyjs/index.html",
@@ -186,7 +190,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "c5817e1a6fd492cdea8cba244ab2d076"
+    "revision": "b0c65e461e82570604973c7ef1bf4971"
   },
   {
     "url": "manifest.webmanifest",
@@ -218,7 +222,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/2/page-data.json",
-    "revision": "d322097547cd4163360798d8a2daa61c"
+    "revision": "a05c027274e230ad9b13aca2ca2cd4a7"
   },
   {
     "url": "page-data/blog/configurar-docker-con-xdebug-y-vscode/page-data.json",
@@ -237,8 +241,12 @@ self.__precacheManifest = [
     "revision": "2962c5e09d583f1276876a7f4ffddbc6"
   },
   {
+    "url": "page-data/blog/generar-json-web-token-en-nodejs/page-data.json",
+    "revision": "404c7e9a4bca687f50e2b52faed86b6c"
+  },
+  {
     "url": "page-data/blog/page-data.json",
-    "revision": "1eed9ef488fba905f2789974064318d5"
+    "revision": "f07f517b24764813b52ba7bdb4d9f195"
   },
   {
     "url": "page-data/blog/un-blog-en-gatsbyjs/page-data.json",
@@ -257,12 +265,8 @@ self.__precacheManifest = [
     "revision": "834bbf3d543e4072836a33f9371aa512"
   },
   {
-    "url": "page-data/dev-404-page/page-data.json",
-    "revision": "d67218e7a44425ecdbde516dbe24f84f"
-  },
-  {
     "url": "page-data/index/page-data.json",
-    "revision": "2b1682208ae569ac624cbc317fdda100"
+    "revision": "1d3a6bea9ddcdf11af3bc6ba740ee740"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -290,7 +294,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap.xml",
-    "revision": "db492f2c48d5183c6c7fcca056289cea"
+    "revision": "42464b2026206211fb1b4f6bb67ff480"
   },
   {
     "url": "static/13f79d1fb92f130327434f44b966716d/0f3a1/image-post1.jpg"
@@ -309,6 +313,18 @@ self.__precacheManifest = [
   },
   {
     "url": "static/466c7fe618f63d32b0272d13185dfd52/dockerphp.png"
+  },
+  {
+    "url": "static/5c7dba3d346a6301edc7ddcf417b27cf/31987/generar-json-web-token-en-nodejs.png"
+  },
+  {
+    "url": "static/5c7dba3d346a6301edc7ddcf417b27cf/46604/generar-json-web-token-en-nodejs.png"
+  },
+  {
+    "url": "static/5c7dba3d346a6301edc7ddcf417b27cf/eeb1b/generar-json-web-token-en-nodejs.png"
+  },
+  {
+    "url": "static/5c7dba3d346a6301edc7ddcf417b27cf/generar-json-web-token-en-nodejs.png"
   },
   {
     "url": "static/8e8ef179e353cb6f9f6124ab5ba7ad30/0dadc/usar-prestashop-17-con-docker-compose.png"
