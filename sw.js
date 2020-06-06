@@ -65,7 +65,11 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/2/index.html",
-    "revision": "bebc682c66fc9dd070f1941a340e7f5f"
+    "revision": "5cea4d56795285e98439aacf872f62ab"
+  },
+  {
+    "url": "blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/index.html",
+    "revision": "8702e1c8764e68b8b65d22c3ff18bf55"
   },
   {
     "url": "blog/configurar-docker-con-xdebug-y-vscode/index.html",
@@ -89,7 +93,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "cf655fd4539c09a697a7c08dd5370b7d"
+    "revision": "4aacdb93af9d651fca188fb0d59a5ebb"
   },
   {
     "url": "blog/un-blog-en-gatsbyjs/index.html",
@@ -190,7 +194,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "b0c65e461e82570604973c7ef1bf4971"
+    "revision": "ed657def6c4a46871d06da3a6381aebe"
   },
   {
     "url": "manifest.webmanifest",
@@ -222,7 +226,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/2/page-data.json",
-    "revision": "a05c027274e230ad9b13aca2ca2cd4a7"
+    "revision": "e04437fc29a8cc2af090e89983ba989b"
+  },
+  {
+    "url": "page-data/blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/page-data.json",
+    "revision": "349d9bfc792f7c214385214d496d52eb"
   },
   {
     "url": "page-data/blog/configurar-docker-con-xdebug-y-vscode/page-data.json",
@@ -246,7 +254,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/page-data.json",
-    "revision": "f07f517b24764813b52ba7bdb4d9f195"
+    "revision": "3c5fb2b8b2377cfb7563a12b79f59a28"
   },
   {
     "url": "page-data/blog/un-blog-en-gatsbyjs/page-data.json",
@@ -266,7 +274,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "1d3a6bea9ddcdf11af3bc6ba740ee740"
+    "revision": "de52516dfb1da140d9b254e28cc08997"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -294,7 +302,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap.xml",
-    "revision": "42464b2026206211fb1b4f6bb67ff480"
+    "revision": "bea956c28aeda0bc6fcc7195cd4dbc41"
   },
   {
     "url": "static/13f79d1fb92f130327434f44b966716d/0f3a1/image-post1.jpg"

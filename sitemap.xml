@@ -4,6 +4,7 @@
 <url> <loc>https://www.fuenrob.com/condiciones-de-uso/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.fuenrob.com/politica-de-cookies/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.fuenrob.com/politica-de-privacidad/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.fuenrob.com/blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.fuenrob.com/blog/generar-json-web-token-en-nodejs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.fuenrob.com/blog/usar-prestashop-17-con-docker-compose/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.fuenrob.com/blog/crud-de-usuarios-en-nodejs-parte-3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
