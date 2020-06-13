@@ -65,7 +65,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/2/index.html",
-    "revision": "5cea4d56795285e98439aacf872f62ab"
+    "revision": "070832f8374575f0b0e36fb4573266ef"
   },
   {
     "url": "blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/index.html",
@@ -88,12 +88,16 @@ self.__precacheManifest = [
     "revision": "683e2630dc03b0a211f80eba0c1dd97f"
   },
   {
+    "url": "blog/desarrollar-una-pagina-de-configuracion-para-un-plugin-de-wordpress/index.html",
+    "revision": "a3889c1d05a132e66263934612b2d2bb"
+  },
+  {
     "url": "blog/generar-json-web-token-en-nodejs/index.html",
     "revision": "4285543db920bbcf1aa8a7857f16a7e8"
   },
   {
     "url": "blog/index.html",
-    "revision": "4aacdb93af9d651fca188fb0d59a5ebb"
+    "revision": "99f8a0e2d02ee367c438f6082d1550f9"
   },
   {
     "url": "blog/un-blog-en-gatsbyjs/index.html",
@@ -194,7 +198,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "ed657def6c4a46871d06da3a6381aebe"
+    "revision": "10f99caaf38946f94cb54c8d5107347a"
   },
   {
     "url": "manifest.webmanifest",
@@ -226,7 +230,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/2/page-data.json",
-    "revision": "e04437fc29a8cc2af090e89983ba989b"
+    "revision": "5937877d4c93d8acc5fd6f389a659ada"
   },
   {
     "url": "page-data/blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/page-data.json",
@@ -249,12 +253,16 @@ self.__precacheManifest = [
     "revision": "2962c5e09d583f1276876a7f4ffddbc6"
   },
   {
+    "url": "page-data/blog/desarrollar-una-pagina-de-configuracion-para-un-plugin-de-wordpress/page-data.json",
+    "revision": "eb154a63a083d7195b41da3853c50817"
+  },
+  {
     "url": "page-data/blog/generar-json-web-token-en-nodejs/page-data.json",
     "revision": "404c7e9a4bca687f50e2b52faed86b6c"
   },
   {
     "url": "page-data/blog/page-data.json",
-    "revision": "3c5fb2b8b2377cfb7563a12b79f59a28"
+    "revision": "f6c29d65e40dd17541051c275ba3280e"
   },
   {
     "url": "page-data/blog/un-blog-en-gatsbyjs/page-data.json",
@@ -274,7 +282,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "de52516dfb1da140d9b254e28cc08997"
+    "revision": "dd47cc33c5d22af431e61033a448f94b"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -302,7 +310,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap.xml",
-    "revision": "bea956c28aeda0bc6fcc7195cd4dbc41"
+    "revision": "b9b4aefe9db0a7cf6774f8f8c0ea59da"
   },
   {
     "url": "static/13f79d1fb92f130327434f44b966716d/0f3a1/image-post1.jpg"
