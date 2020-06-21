@@ -28,11 +28,11 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "14c4a800e17005ce635cc0d9aebd21e9"
+    "revision": "0b291d575f30d5223baf6fa0e6f8e22d"
   },
   {
     "url": "404/index.html",
-    "revision": "be47dcac3807f90d59a3cebc1331c468"
+    "revision": "89ee8240e7cc0cc4d02323c7b7a438ca"
   },
   {
     "url": "5b3513a32482471b7563a5aaec54ca307e0f774d-e5f23bdcda77cd3d107e.js"
@@ -50,7 +50,7 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "d4fccb5b8fa4b2d1e174878828b817e1"
+    "revision": "db52c00d325d1902e78fb4cfce83a926"
   },
   {
     "url": "app-595e1ca223fbcc778599.js"
@@ -61,51 +61,55 @@ self.__precacheManifest = [
   },
   {
     "url": "aviso-legal/index.html",
-    "revision": "6146b12f9a6a713536a00bdbe8bf81bf"
+    "revision": "18abf56db02cf7a4a8fed0b91d4fc81a"
   },
   {
     "url": "blog/2/index.html",
-    "revision": "070832f8374575f0b0e36fb4573266ef"
+    "revision": "94b6ef1e2ec9ac38e9013fa25a15bead"
   },
   {
     "url": "blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/index.html",
-    "revision": "8702e1c8764e68b8b65d22c3ff18bf55"
+    "revision": "91badcab64fe8e20ca24e3df3b35a5ff"
   },
   {
     "url": "blog/configurar-docker-con-xdebug-y-vscode/index.html",
-    "revision": "8d849419d0f036678f75440c610ebb11"
+    "revision": "451ba82028cf09010a6e5debfe4d5a22"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-1/index.html",
-    "revision": "00dc2f67b8246aeed9165738883d63f8"
+    "revision": "a44710b24a9dc0b54b2865691c038515"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-2/index.html",
-    "revision": "e12e319e6760bb06503b94950f0bcdc4"
+    "revision": "c95e70989b2bb2dcafc0b33430795c69"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-3/index.html",
-    "revision": "683e2630dc03b0a211f80eba0c1dd97f"
+    "revision": "1a475a3dda2944b4a72eb0470e5440fb"
   },
   {
     "url": "blog/desarrollar-una-pagina-de-configuracion-para-un-plugin-de-wordpress/index.html",
-    "revision": "a3889c1d05a132e66263934612b2d2bb"
+    "revision": "dcad737eb60a5ef9337d369abe2fa2ef"
   },
   {
     "url": "blog/generar-json-web-token-en-nodejs/index.html",
-    "revision": "4285543db920bbcf1aa8a7857f16a7e8"
+    "revision": "6bf59fb85a3897a5bdf676cba69e8e45"
   },
   {
     "url": "blog/index.html",
-    "revision": "99f8a0e2d02ee367c438f6082d1550f9"
+    "revision": "266647afc87d5f37a7bc8d9000a44d94"
+  },
+  {
+    "url": "blog/que-es-deployer-y-como-usarlo/index.html",
+    "revision": "72ca8da3633f8e2fd2d576eb99ae9acb"
   },
   {
     "url": "blog/un-blog-en-gatsbyjs/index.html",
-    "revision": "1540c0bb50e6cee07c0757a6212d6251"
+    "revision": "aa634bb7a5555e1e39185717a9e1c1de"
   },
   {
     "url": "blog/usar-prestashop-17-con-docker-compose/index.html",
-    "revision": "db648a0c292ecdda37e207e2a02061b2"
+    "revision": "31fba20dc9090f2b60406d79c9d0421e"
   },
   {
     "url": "cb1608f2-09726aaf060f570ced18.js"
@@ -169,11 +173,11 @@ self.__precacheManifest = [
   },
   {
     "url": "condiciones-de-uso/index.html",
-    "revision": "42c767b60ed05f573fbcb0097fa56f55"
+    "revision": "3070fb78a20c2658ecb4590f64888e38"
   },
   {
     "url": "contact/index.html",
-    "revision": "9d3ccc9644ea082ba51ea499181c13f3"
+    "revision": "6f36111231c64ef34ff6c89261b879ce"
   },
   {
     "url": "d3e0ddf8626fa0443a290073f4e52e7484009146-ee82fbe867d2a6f79747.js"
@@ -198,7 +202,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "10f99caaf38946f94cb54c8d5107347a"
+    "revision": "4410067fd9a976d04a0d1a43807f0307"
   },
   {
     "url": "manifest.webmanifest",
@@ -206,7 +210,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "b33bacf32c4c878bba2635d00825388b"
+    "revision": "4e0c6b034b8c7379ccda9c6f3540d4bd"
   },
   {
     "url": "page-data/404.html/page-data.json",
@@ -222,7 +226,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "4f5c388140f39c56bf0130c617b37adf"
+    "revision": "af62eb018251c75f9b021eb0789a13a5"
   },
   {
     "url": "page-data/aviso-legal/page-data.json",
@@ -230,7 +234,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/2/page-data.json",
-    "revision": "5937877d4c93d8acc5fd6f389a659ada"
+    "revision": "09f32df70ddd6f8de04c06edb83b7730"
   },
   {
     "url": "page-data/blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/page-data.json",
@@ -262,7 +266,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/page-data.json",
-    "revision": "f6c29d65e40dd17541051c275ba3280e"
+    "revision": "a114b2c0fcafdbe8a75be1b0df89a305"
+  },
+  {
+    "url": "page-data/blog/que-es-deployer-y-como-usarlo/page-data.json",
+    "revision": "580e65b7af07708bc235e90d489bb9d6"
   },
   {
     "url": "page-data/blog/un-blog-en-gatsbyjs/page-data.json",
@@ -282,7 +290,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "dd47cc33c5d22af431e61033a448f94b"
+    "revision": "c9ef019d11143543bb21521c62ed5807"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -298,11 +306,11 @@ self.__precacheManifest = [
   },
   {
     "url": "politica-de-cookies/index.html",
-    "revision": "6042dda61901746d348a2793506df18b"
+    "revision": "ddc86b47052974fccb4d04ec9516ba91"
   },
   {
     "url": "politica-de-privacidad/index.html",
-    "revision": "6441ddbf3a2b2a1fc80cbe33cb553b88"
+    "revision": "fd84fc4d062ff8c0da5eb586c58db287"
   },
   {
     "url": "robots.txt",
@@ -310,7 +318,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap.xml",
-    "revision": "b9b4aefe9db0a7cf6774f8f8c0ea59da"
+    "revision": "97932b7b6e52e086770fbb4792ad59b8"
   },
   {
     "url": "static/13f79d1fb92f130327434f44b966716d/0f3a1/image-post1.jpg"
@@ -368,7 +376,7 @@ self.__precacheManifest = [
     "revision": "41d7e5b452053b2539821ba9fafbdeae"
   },
   {
-    "url": "styles.b67c49ebaa15e159c109.css"
+    "url": "styles.92e78578c20e52cee141.css"
   },
   {
     "url": "webpack-runtime-ebfabf86294c5b3799ee.js"
@@ -379,7 +387,7 @@ self.__precacheManifest = [
   },
   {
     "url": "webpack.stats.json",
-    "revision": "f5d5e3fd19185ce9ad2683f61cad35d8"
+    "revision": "3fe34edd737acb3c7244545bb9ce084f"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
