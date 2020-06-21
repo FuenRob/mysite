@@ -34,6 +34,26 @@ exports.createPages = async ({ graphql, actions }) => {
     `
   )
 
+  const resultPost = await graphql(
+    `
+      {
+        allMarkdownRemark(
+          filter: {frontmatter: {date: {ne: null}}}
+          sort: { fields: [frontmatter___date], order: DESC }
+          limit: 1000
+        ) {
+          edges {
+            node {
+              fields {
+                slug
+              }
+            }
+          }
+        }
+      }
+    `
+  )
+
   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
     createPage({
       path: node.fields.slug,
@@ -47,7 +67,7 @@ exports.createPages = async ({ graphql, actions }) => {
   })
 
   // Create blog-list pages
-  const posts = result.data.allMarkdownRemark.edges
+  const posts = resultPost.data.allMarkdownRemark.edges
   const postsPerPage = 5
   const numPages = Math.ceil(posts.length / postsPerPage)
   Array.from({ length: numPages }).forEach((_, i) => {
