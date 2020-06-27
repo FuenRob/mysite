@@ -28,11 +28,11 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "0b291d575f30d5223baf6fa0e6f8e22d"
+    "revision": "2052f5e4a87a5bf185f6a29962a5bf2d"
   },
   {
     "url": "404/index.html",
-    "revision": "89ee8240e7cc0cc4d02323c7b7a438ca"
+    "revision": "c78febb7c550674272b92cc1ece738a2"
   },
   {
     "url": "5b3513a32482471b7563a5aaec54ca307e0f774d-e5f23bdcda77cd3d107e.js"
@@ -50,7 +50,7 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "db52c00d325d1902e78fb4cfce83a926"
+    "revision": "4e8008fb796f33c4425a0f289f3f8c95"
   },
   {
     "url": "app-595e1ca223fbcc778599.js"
@@ -61,55 +61,55 @@ self.__precacheManifest = [
   },
   {
     "url": "aviso-legal/index.html",
-    "revision": "18abf56db02cf7a4a8fed0b91d4fc81a"
+    "revision": "2166bfc57a806e81a143b6592429ee7e"
   },
   {
     "url": "blog/2/index.html",
-    "revision": "94b6ef1e2ec9ac38e9013fa25a15bead"
+    "revision": "f7acaa2870e69c5d9dcf6b6ec1f99612"
   },
   {
     "url": "blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/index.html",
-    "revision": "91badcab64fe8e20ca24e3df3b35a5ff"
+    "revision": "89f3b5f3aa07a3425224d652d26997d0"
   },
   {
     "url": "blog/configurar-docker-con-xdebug-y-vscode/index.html",
-    "revision": "451ba82028cf09010a6e5debfe4d5a22"
+    "revision": "e587650040cac13982276fc09b1612ba"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-1/index.html",
-    "revision": "a44710b24a9dc0b54b2865691c038515"
+    "revision": "fc6b93f90facdf3d242c0bce201b2efc"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-2/index.html",
-    "revision": "c95e70989b2bb2dcafc0b33430795c69"
+    "revision": "5d465cbd64f07f166dec4fe0b1777bba"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-3/index.html",
-    "revision": "1a475a3dda2944b4a72eb0470e5440fb"
+    "revision": "73093caa084c613c84c266a5c52e0fef"
   },
   {
     "url": "blog/desarrollar-una-pagina-de-configuracion-para-un-plugin-de-wordpress/index.html",
-    "revision": "dcad737eb60a5ef9337d369abe2fa2ef"
+    "revision": "13c1c14bdc5198bd8e53130dbe7e16b0"
   },
   {
     "url": "blog/generar-json-web-token-en-nodejs/index.html",
-    "revision": "6bf59fb85a3897a5bdf676cba69e8e45"
+    "revision": "ac786924b247198246caabdb27d4c71a"
   },
   {
     "url": "blog/index.html",
-    "revision": "266647afc87d5f37a7bc8d9000a44d94"
+    "revision": "8f4bad91be7130cfd2fa42c02f1c68e7"
   },
   {
     "url": "blog/que-es-deployer-y-como-usarlo/index.html",
-    "revision": "72ca8da3633f8e2fd2d576eb99ae9acb"
+    "revision": "e50ec1f8dd0333f35ae06e71ef06e053"
   },
   {
     "url": "blog/un-blog-en-gatsbyjs/index.html",
-    "revision": "aa634bb7a5555e1e39185717a9e1c1de"
+    "revision": "ecfd19e7d27afc595d7f8fa55abb7dcd"
   },
   {
     "url": "blog/usar-prestashop-17-con-docker-compose/index.html",
-    "revision": "31fba20dc9090f2b60406d79c9d0421e"
+    "revision": "3022f6750e41d40d216cdb9adbe877b9"
   },
   {
     "url": "cb1608f2-09726aaf060f570ced18.js"
@@ -173,18 +173,18 @@ self.__precacheManifest = [
   },
   {
     "url": "condiciones-de-uso/index.html",
-    "revision": "3070fb78a20c2658ecb4590f64888e38"
+    "revision": "44199f42ad945968435f8bc469cc4789"
   },
   {
     "url": "contact/index.html",
-    "revision": "6f36111231c64ef34ff6c89261b879ce"
+    "revision": "a0494d5a08a2c8d17db93b8d4ea1181d"
   },
   {
-    "url": "d3e0ddf8626fa0443a290073f4e52e7484009146-ee82fbe867d2a6f79747.js"
+    "url": "d3e0ddf8626fa0443a290073f4e52e7484009146-ff3494902bbf45d66612.js"
   },
   {
-    "url": "d3e0ddf8626fa0443a290073f4e52e7484009146-ee82fbe867d2a6f79747.js.map",
-    "revision": "87d12092774122ab261e478fcf0b48e9"
+    "url": "d3e0ddf8626fa0443a290073f4e52e7484009146-ff3494902bbf45d66612.js.map",
+    "revision": "4421a2b2c3d72563b951e7e587f17ae7"
   },
   {
     "url": "favicon.ico",
@@ -202,7 +202,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "4410067fd9a976d04a0d1a43807f0307"
+    "revision": "acb1f5c801997e9424136ddc88c08781"
   },
   {
     "url": "manifest.webmanifest",
@@ -210,7 +210,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "4e0c6b034b8c7379ccda9c6f3540d4bd"
+    "revision": "f000de84058f20a7fb48e1d109826595"
   },
   {
     "url": "page-data/404.html/page-data.json",
@@ -226,7 +226,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "af62eb018251c75f9b021eb0789a13a5"
+    "revision": "239c38a02cf7cd0120f40cc9f5a7fdd5"
   },
   {
     "url": "page-data/aviso-legal/page-data.json",
@@ -306,11 +306,11 @@ self.__precacheManifest = [
   },
   {
     "url": "politica-de-cookies/index.html",
-    "revision": "ddc86b47052974fccb4d04ec9516ba91"
+    "revision": "cf8bb7e990cc22183b7ca26d09a78af2"
   },
   {
     "url": "politica-de-privacidad/index.html",
-    "revision": "fd84fc4d062ff8c0da5eb586c58db287"
+    "revision": "50aa601e964441a3bc280c5e8405bc2a"
   },
   {
     "url": "robots.txt",
@@ -318,7 +318,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap.xml",
-    "revision": "97932b7b6e52e086770fbb4792ad59b8"
+    "revision": "21e558f98e59492b7a272d8d1ea81c7d"
   },
   {
     "url": "static/13f79d1fb92f130327434f44b966716d/0f3a1/image-post1.jpg"
@@ -379,15 +379,15 @@ self.__precacheManifest = [
     "url": "styles.92e78578c20e52cee141.css"
   },
   {
-    "url": "webpack-runtime-ebfabf86294c5b3799ee.js"
+    "url": "webpack-runtime-c6691b2f895793005652.js"
   },
   {
-    "url": "webpack-runtime-ebfabf86294c5b3799ee.js.map",
-    "revision": "43d767372bd43013a13fabbee7ce084a"
+    "url": "webpack-runtime-c6691b2f895793005652.js.map",
+    "revision": "acea50787ab21a69e1859a1d42781ae1"
   },
   {
     "url": "webpack.stats.json",
-    "revision": "3fe34edd737acb3c7244545bb9ce084f"
+    "revision": "98e738d24087dfa005dead3ba7c47a85"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
