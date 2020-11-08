@@ -28,11 +28,11 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "2052f5e4a87a5bf185f6a29962a5bf2d"
+    "revision": "0b291d575f30d5223baf6fa0e6f8e22d"
   },
   {
     "url": "404/index.html",
-    "revision": "c78febb7c550674272b92cc1ece738a2"
+    "revision": "89ee8240e7cc0cc4d02323c7b7a438ca"
   },
   {
     "url": "5b3513a32482471b7563a5aaec54ca307e0f774d-e5f23bdcda77cd3d107e.js"
@@ -50,7 +50,7 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "4e8008fb796f33c4425a0f289f3f8c95"
+    "revision": "db52c00d325d1902e78fb4cfce83a926"
   },
   {
     "url": "app-595e1ca223fbcc778599.js"
@@ -61,55 +61,63 @@ self.__precacheManifest = [
   },
   {
     "url": "aviso-legal/index.html",
-    "revision": "2166bfc57a806e81a143b6592429ee7e"
+    "revision": "18abf56db02cf7a4a8fed0b91d4fc81a"
   },
   {
     "url": "blog/2/index.html",
-    "revision": "f7acaa2870e69c5d9dcf6b6ec1f99612"
+    "revision": "f9fa9558d5e8f85fa14a294c1b540fe3"
+  },
+  {
+    "url": "blog/3/index.html",
+    "revision": "007df34b2800991fcfba9f5eb27e9aee"
   },
   {
     "url": "blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/index.html",
-    "revision": "89f3b5f3aa07a3425224d652d26997d0"
+    "revision": "91badcab64fe8e20ca24e3df3b35a5ff"
+  },
+  {
+    "url": "blog/como-usar-los-secrets-de-github/index.html",
+    "revision": "b7b67a4535e262420da56ba0d3d07af1"
   },
   {
     "url": "blog/configurar-docker-con-xdebug-y-vscode/index.html",
-    "revision": "e587650040cac13982276fc09b1612ba"
+    "revision": "451ba82028cf09010a6e5debfe4d5a22"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-1/index.html",
-    "revision": "fc6b93f90facdf3d242c0bce201b2efc"
+    "revision": "a44710b24a9dc0b54b2865691c038515"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-2/index.html",
-    "revision": "5d465cbd64f07f166dec4fe0b1777bba"
+    "revision": "c95e70989b2bb2dcafc0b33430795c69"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-3/index.html",
-    "revision": "73093caa084c613c84c266a5c52e0fef"
+    "revision": "1a475a3dda2944b4a72eb0470e5440fb"
   },
   {
     "url": "blog/desarrollar-una-pagina-de-configuracion-para-un-plugin-de-wordpress/index.html",
-    "revision": "13c1c14bdc5198bd8e53130dbe7e16b0"
+    "revision": "dcad737eb60a5ef9337d369abe2fa2ef"
   },
   {
     "url": "blog/generar-json-web-token-en-nodejs/index.html",
-    "revision": "ac786924b247198246caabdb27d4c71a"
+    "revision": "6bf59fb85a3897a5bdf676cba69e8e45"
   },
   {
     "url": "blog/index.html",
-    "revision": "8f4bad91be7130cfd2fa42c02f1c68e7"
+    "revision": "81326fbc91983384bddf833a10241582"
   },
   {
     "url": "blog/que-es-deployer-y-como-usarlo/index.html",
-    "revision": "e50ec1f8dd0333f35ae06e71ef06e053"
+    "revision": "72ca8da3633f8e2fd2d576eb99ae9acb"
   },
   {
     "url": "blog/un-blog-en-gatsbyjs/index.html",
-    "revision": "ecfd19e7d27afc595d7f8fa55abb7dcd"
+    "revision": "aa634bb7a5555e1e39185717a9e1c1de"
   },
   {
     "url": "blog/usar-prestashop-17-con-docker-compose/index.html",
-    "revision": "3022f6750e41d40d216cdb9adbe877b9"
+    "revision": "31fba20dc9090f2b60406d79c9d0421e"
   },
   {
     "url": "cb1608f2-09726aaf060f570ced18.js"
@@ -173,18 +181,18 @@ self.__precacheManifest = [
   },
   {
     "url": "condiciones-de-uso/index.html",
-    "revision": "44199f42ad945968435f8bc469cc4789"
+    "revision": "3070fb78a20c2658ecb4590f64888e38"
   },
   {
     "url": "contact/index.html",
-    "revision": "a0494d5a08a2c8d17db93b8d4ea1181d"
+    "revision": "6f36111231c64ef34ff6c89261b879ce"
   },
   {
-    "url": "d3e0ddf8626fa0443a290073f4e52e7484009146-ff3494902bbf45d66612.js"
+    "url": "d3e0ddf8626fa0443a290073f4e52e7484009146-ee82fbe867d2a6f79747.js"
   },
   {
-    "url": "d3e0ddf8626fa0443a290073f4e52e7484009146-ff3494902bbf45d66612.js.map",
-    "revision": "4421a2b2c3d72563b951e7e587f17ae7"
+    "url": "d3e0ddf8626fa0443a290073f4e52e7484009146-ee82fbe867d2a6f79747.js.map",
+    "revision": "87d12092774122ab261e478fcf0b48e9"
   },
   {
     "url": "favicon.ico",
@@ -202,7 +210,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "acb1f5c801997e9424136ddc88c08781"
+    "revision": "b7d6fcac23b2e15e69f854693ff8f489"
   },
   {
     "url": "manifest.webmanifest",
@@ -210,7 +218,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "f000de84058f20a7fb48e1d109826595"
+    "revision": "4e0c6b034b8c7379ccda9c6f3540d4bd"
   },
   {
     "url": "page-data/404.html/page-data.json",
@@ -226,7 +234,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "239c38a02cf7cd0120f40cc9f5a7fdd5"
+    "revision": "af62eb018251c75f9b021eb0789a13a5"
   },
   {
     "url": "page-data/aviso-legal/page-data.json",
@@ -234,11 +242,19 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/2/page-data.json",
-    "revision": "09f32df70ddd6f8de04c06edb83b7730"
+    "revision": "60158fe02017b2414a28277bedf8ec41"
+  },
+  {
+    "url": "page-data/blog/3/page-data.json",
+    "revision": "921d0adb64b9d4fcc752587c8c05dd88"
   },
   {
     "url": "page-data/blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/page-data.json",
     "revision": "349d9bfc792f7c214385214d496d52eb"
+  },
+  {
+    "url": "page-data/blog/como-usar-los-secrets-de-github/page-data.json",
+    "revision": "cbc29c262d9289deba4e2978af69a8af"
   },
   {
     "url": "page-data/blog/configurar-docker-con-xdebug-y-vscode/page-data.json",
@@ -266,7 +282,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/page-data.json",
-    "revision": "a114b2c0fcafdbe8a75be1b0df89a305"
+    "revision": "f28e956c5332f8bef75839be694574dc"
   },
   {
     "url": "page-data/blog/que-es-deployer-y-como-usarlo/page-data.json",
@@ -290,7 +306,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "c9ef019d11143543bb21521c62ed5807"
+    "revision": "d6697cb84cf74568c26ace152c2caa55"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -306,11 +322,11 @@ self.__precacheManifest = [
   },
   {
     "url": "politica-de-cookies/index.html",
-    "revision": "cf8bb7e990cc22183b7ca26d09a78af2"
+    "revision": "ddc86b47052974fccb4d04ec9516ba91"
   },
   {
     "url": "politica-de-privacidad/index.html",
-    "revision": "50aa601e964441a3bc280c5e8405bc2a"
+    "revision": "fd84fc4d062ff8c0da5eb586c58db287"
   },
   {
     "url": "robots.txt",
@@ -318,7 +334,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap.xml",
-    "revision": "21e558f98e59492b7a272d8d1ea81c7d"
+    "revision": "6143a0c591240e738855700b2e0dc1bc"
   },
   {
     "url": "static/13f79d1fb92f130327434f44b966716d/0f3a1/image-post1.jpg"
@@ -369,6 +385,18 @@ self.__precacheManifest = [
     "url": "static/d/664295784.json"
   },
   {
+    "url": "static/ff8131d6e5212fdddaddb1f20be4e03e/31987/actions-github-banner.png"
+  },
+  {
+    "url": "static/ff8131d6e5212fdddaddb1f20be4e03e/46604/actions-github-banner.png"
+  },
+  {
+    "url": "static/ff8131d6e5212fdddaddb1f20be4e03e/actions-github-banner.png"
+  },
+  {
+    "url": "static/ff8131d6e5212fdddaddb1f20be4e03e/f3583/actions-github-banner.png"
+  },
+  {
     "url": "styles-4773e5fdece67d6f48f5.js"
   },
   {
@@ -379,15 +407,15 @@ self.__precacheManifest = [
     "url": "styles.92e78578c20e52cee141.css"
   },
   {
-    "url": "webpack-runtime-c6691b2f895793005652.js"
+    "url": "webpack-runtime-ebfabf86294c5b3799ee.js"
   },
   {
-    "url": "webpack-runtime-c6691b2f895793005652.js.map",
-    "revision": "acea50787ab21a69e1859a1d42781ae1"
+    "url": "webpack-runtime-ebfabf86294c5b3799ee.js.map",
+    "revision": "43d767372bd43013a13fabbee7ce084a"
   },
   {
     "url": "webpack.stats.json",
-    "revision": "98e738d24087dfa005dead3ba7c47a85"
+    "revision": "3fe34edd737acb3c7244545bb9ce084f"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
