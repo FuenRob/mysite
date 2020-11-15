@@ -65,15 +65,19 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/2/index.html",
-    "revision": "f9fa9558d5e8f85fa14a294c1b540fe3"
+    "revision": "48a00b1c1ca3e270daaf19648063ab24"
   },
   {
     "url": "blog/3/index.html",
-    "revision": "007df34b2800991fcfba9f5eb27e9aee"
+    "revision": "705c9f1d26e8222220d42514e06bd9ed"
   },
   {
     "url": "blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/index.html",
     "revision": "91badcab64fe8e20ca24e3df3b35a5ff"
+  },
+  {
+    "url": "blog/como-deshacer-un-commit-erroneo/index.html",
+    "revision": "a5b7a9d9ff1867f6c5eaa89bcfa9326c"
   },
   {
     "url": "blog/como-usar-los-secrets-de-github/index.html",
@@ -105,7 +109,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "81326fbc91983384bddf833a10241582"
+    "revision": "5f443fe8bdfa43dc1554a73c133b5c2c"
   },
   {
     "url": "blog/que-es-deployer-y-como-usarlo/index.html",
@@ -210,7 +214,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "b7d6fcac23b2e15e69f854693ff8f489"
+    "revision": "a75fe68655fb4d94963a6a1e03ee0fa4"
   },
   {
     "url": "manifest.webmanifest",
@@ -242,15 +246,19 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/2/page-data.json",
-    "revision": "60158fe02017b2414a28277bedf8ec41"
+    "revision": "8e83c5a0ea2e93dd512c76e9379ee69d"
   },
   {
     "url": "page-data/blog/3/page-data.json",
-    "revision": "921d0adb64b9d4fcc752587c8c05dd88"
+    "revision": "45c150db4afc3fa9deb23d32f109fb0c"
   },
   {
     "url": "page-data/blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/page-data.json",
     "revision": "349d9bfc792f7c214385214d496d52eb"
+  },
+  {
+    "url": "page-data/blog/como-deshacer-un-commit-erroneo/page-data.json",
+    "revision": "50fa571de0c86d3e1d99ce0f41981b1e"
   },
   {
     "url": "page-data/blog/como-usar-los-secrets-de-github/page-data.json",
@@ -282,7 +290,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/page-data.json",
-    "revision": "f28e956c5332f8bef75839be694574dc"
+    "revision": "59693ad0f01593041b2e941368d24da7"
   },
   {
     "url": "page-data/blog/que-es-deployer-y-como-usarlo/page-data.json",
@@ -305,8 +313,12 @@ self.__precacheManifest = [
     "revision": "834bbf3d543e4072836a33f9371aa512"
   },
   {
+    "url": "page-data/dev-404-page/page-data.json",
+    "revision": "37b180914d412e5b39b53fa065611a68"
+  },
+  {
     "url": "page-data/index/page-data.json",
-    "revision": "d6697cb84cf74568c26ace152c2caa55"
+    "revision": "5754f99344b4061c4e13f6383d6e2996"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -334,7 +346,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap.xml",
-    "revision": "6143a0c591240e738855700b2e0dc1bc"
+    "revision": "9ddbb9ee381b41452c1d11eb108905b6"
   },
   {
     "url": "static/13f79d1fb92f130327434f44b966716d/0f3a1/image-post1.jpg"
@@ -344,6 +356,18 @@ self.__precacheManifest = [
   },
   {
     "url": "static/13f79d1fb92f130327434f44b966716d/image-post1.jpeg"
+  },
+  {
+    "url": "static/1663bd3891c31dc71eb22887786bb242/31987/como-deshacer-un-commit-erroneo.png"
+  },
+  {
+    "url": "static/1663bd3891c31dc71eb22887786bb242/46604/como-deshacer-un-commit-erroneo.png"
+  },
+  {
+    "url": "static/1663bd3891c31dc71eb22887786bb242/a8378/como-deshacer-un-commit-erroneo.png"
+  },
+  {
+    "url": "static/1663bd3891c31dc71eb22887786bb242/como-deshacer-un-commit-erroneo.png"
   },
   {
     "url": "static/466c7fe618f63d32b0272d13185dfd52/46604/dockerphp.png"
