@@ -65,11 +65,11 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/2/index.html",
-    "revision": "48a00b1c1ca3e270daaf19648063ab24"
+    "revision": "7ff9af6e2d0baef13be21abca8a7e80b"
   },
   {
     "url": "blog/3/index.html",
-    "revision": "705c9f1d26e8222220d42514e06bd9ed"
+    "revision": "bbd45c5ce6ead239b64b3191672128fb"
   },
   {
     "url": "blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/index.html",
@@ -109,7 +109,11 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "5f443fe8bdfa43dc1554a73c133b5c2c"
+    "revision": "985e652e819d6364099144faad8648c7"
+  },
+  {
+    "url": "blog/integrar-sanityio-en-reactjs/index.html",
+    "revision": "50e4274edfb3e1b4d9d6e30b90c5d6c1"
   },
   {
     "url": "blog/que-es-deployer-y-como-usarlo/index.html",
@@ -214,7 +218,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "a75fe68655fb4d94963a6a1e03ee0fa4"
+    "revision": "6be2bede221faf3d87b44d898f50f926"
   },
   {
     "url": "manifest.webmanifest",
@@ -246,11 +250,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/2/page-data.json",
-    "revision": "8e83c5a0ea2e93dd512c76e9379ee69d"
+    "revision": "85ce7b594eda48e0938423ff42ee72a3"
   },
   {
     "url": "page-data/blog/3/page-data.json",
-    "revision": "45c150db4afc3fa9deb23d32f109fb0c"
+    "revision": "bd154641dfeb1042f09b29da41ed5521"
   },
   {
     "url": "page-data/blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/page-data.json",
@@ -289,8 +293,12 @@ self.__precacheManifest = [
     "revision": "404c7e9a4bca687f50e2b52faed86b6c"
   },
   {
+    "url": "page-data/blog/integrar-sanityio-en-reactjs/page-data.json",
+    "revision": "feb71d2742a6436254afd33e5876bb92"
+  },
+  {
     "url": "page-data/blog/page-data.json",
-    "revision": "59693ad0f01593041b2e941368d24da7"
+    "revision": "5834727aa87ebff35cc801afb8916118"
   },
   {
     "url": "page-data/blog/que-es-deployer-y-como-usarlo/page-data.json",
@@ -314,11 +322,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/dev-404-page/page-data.json",
-    "revision": "37b180914d412e5b39b53fa065611a68"
+    "revision": "ecff0d7e742994894c927061525140d9"
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "5754f99344b4061c4e13f6383d6e2996"
+    "revision": "d624dc2ac3fceeb03f52f6f0bc44d72f"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -346,7 +354,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap.xml",
-    "revision": "9ddbb9ee381b41452c1d11eb108905b6"
+    "revision": "29f2e2ba7f03679ed4ebe74dc33e3b41"
   },
   {
     "url": "static/13f79d1fb92f130327434f44b966716d/0f3a1/image-post1.jpg"
