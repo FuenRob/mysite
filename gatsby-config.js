@@ -100,6 +100,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
+        icon: "/favicon.ico",
         cache_busting_mode: 'none'
       }
     },
