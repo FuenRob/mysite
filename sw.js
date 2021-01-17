@@ -28,11 +28,11 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "d125a1881d9fec83d52b487f55d2dda0"
+    "revision": "35425d7f144e2f7e4111b9f716229718"
   },
   {
     "url": "404/index.html",
-    "revision": "6ebd28b572228e7ff7de75f17014d39e"
+    "revision": "227c0ce8f81d6a5e7863f69ed8516a0a"
   },
   {
     "url": "505b62317f0ce1886a0f4b7cd0ebf6019d251f61-1e702cc961624471a34a.js"
@@ -65,7 +65,7 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "c864edc4f69c02fb15952d19b8b655ff"
+    "revision": "6197d0314768acc6ca5bec97ad9f880d"
   },
   {
     "url": "app-ba5c5993b411999af54b.js"
@@ -80,71 +80,71 @@ self.__precacheManifest = [
   },
   {
     "url": "aviso-legal/index.html",
-    "revision": "9b712c17d3d57edaa1eb5961b70dd51f"
+    "revision": "0a92659a50de19f5dfbc0ed265d64866"
   },
   {
     "url": "blog/2/index.html",
-    "revision": "5a5cf7469b464a5d2365265978199f92"
+    "revision": "f7047d016f6a37830aa0802a2e883df0"
   },
   {
     "url": "blog/3/index.html",
-    "revision": "185affb9aac4b36fa7ff737580af316b"
+    "revision": "c523f7382a9c2944a5c1b2b39e08ddf0"
   },
   {
     "url": "blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/index.html",
-    "revision": "319d5ac3f6ca194b04deecae6d3e0676"
+    "revision": "243dac9c446528839d90970b8a70cd17"
   },
   {
     "url": "blog/como-deshacer-un-commit-erroneo/index.html",
-    "revision": "7e948cbd0a546a63bc57f9eabfe28504"
+    "revision": "5da8b4a117afb2c8d6adcce5e3f70eb5"
   },
   {
     "url": "blog/como-usar-los-secrets-de-github/index.html",
-    "revision": "a4992092a23d1b49d0565d7ea5ef803e"
+    "revision": "952e42978601ee4247eeaf2c70216c8b"
   },
   {
     "url": "blog/configurar-docker-con-xdebug-y-vscode/index.html",
-    "revision": "b08e22c664b951cdddaaf1468c3aaa5d"
+    "revision": "ef4684ef45804538b59e32211b76bb9a"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-1/index.html",
-    "revision": "f6b5a23a9489cf25f6102c587fab6cc7"
+    "revision": "3d03953eca448b809ffca69cf865f7fe"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-2/index.html",
-    "revision": "ab1655453b270423b5bc166b22aaf600"
+    "revision": "afefffe9478fd08c5d59065795457b76"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-3/index.html",
-    "revision": "4cca8a409b9a95fde95501e179d1a0cb"
+    "revision": "d644e1c9c641bc10dfe02cae1d3af80e"
   },
   {
     "url": "blog/desarrollar-una-pagina-de-configuracion-para-un-plugin-de-wordpress/index.html",
-    "revision": "21593bd9509cc88d6cdfd1133c1c6ff8"
+    "revision": "a44ec4362e86cdff03fd58b0a66de177"
   },
   {
     "url": "blog/generar-json-web-token-en-nodejs/index.html",
-    "revision": "25a7a98ed3ce7bfdf8782611ceb48088"
+    "revision": "d08dc06341733d45256e6297f075dafa"
   },
   {
     "url": "blog/index.html",
-    "revision": "d1563336136449fc1db49a3e7e7c6109"
+    "revision": "4bf23125f232af66f9576a993d5e000c"
   },
   {
     "url": "blog/integrar-sanityio-en-reactjs/index.html",
-    "revision": "8be1cac42805ef702998efb81d03d5c2"
+    "revision": "b42fd126920cded523b95f631e12ccac"
   },
   {
     "url": "blog/que-es-deployer-y-como-usarlo/index.html",
-    "revision": "78b60eb07d1e307f81eb32cdc599fab0"
+    "revision": "2b8eb811a6d212b15cac5232fdd99b45"
   },
   {
     "url": "blog/un-blog-en-gatsbyjs/index.html",
-    "revision": "66d2bb525165af9fa4fd2f07e5ab7930"
+    "revision": "4b56aba83317faa73b47e1f9b63ea690"
   },
   {
     "url": "blog/usar-prestashop-17-con-docker-compose/index.html",
-    "revision": "2ed9e30ebb837e1676d7549511add4d8"
+    "revision": "b24e58548abecccc9c2befb3d6cbab17"
   },
   {
     "url": "cb1608f2-8be864fd25be3f47a99c.js"
@@ -212,11 +212,11 @@ self.__precacheManifest = [
   },
   {
     "url": "condiciones-de-uso/index.html",
-    "revision": "654fe831a8ba412cafd7256932f74949"
+    "revision": "041d0e9f8598641186d7330129402ce4"
   },
   {
     "url": "contact/index.html",
-    "revision": "d97ace5b8aff67aa8b507caf57115fac"
+    "revision": "75b0b4205b524ea7fc4ece7cd57b81a9"
   },
   {
     "url": "favicon-32x32.png",
@@ -274,7 +274,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "512b44dc2202e8aed9ebd5a316ae71dd"
+    "revision": "75b534f66b6b7cffbe5f79f77028502d"
   },
   {
     "url": "manifest.webmanifest",
@@ -282,7 +282,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "ae5817ef01dd760d70035e30a552953a"
+    "revision": "f20f362c5323268cf86ae29a7cdf08f1"
   },
   {
     "url": "page-data/404.html/page-data.json",
@@ -298,7 +298,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "be70eaa830dbb507205f2de79531c193"
+    "revision": "622fd7f67895051046627e4ae55fc6bc"
   },
   {
     "url": "page-data/aviso-legal/page-data.json",
@@ -322,7 +322,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/como-usar-los-secrets-de-github/page-data.json",
-    "revision": "f541647fa64f19dfbdc97e418823d4d8"
+    "revision": "67f6ef42d4851372bfccbdffda779d09"
   },
   {
     "url": "page-data/blog/configurar-docker-con-xdebug-y-vscode/page-data.json",
@@ -402,11 +402,11 @@ self.__precacheManifest = [
   },
   {
     "url": "politica-de-cookies/index.html",
-    "revision": "f86d3435e8fbd6bcfb3420d6b702b41b"
+    "revision": "4c71047797e71dadfdb43eb84f341d29"
   },
   {
     "url": "politica-de-privacidad/index.html",
-    "revision": "0e08e954613a9a6cd2be1567d704a3d6"
+    "revision": "69338b4d27ebf88b1de4e767e2befa27"
   },
   {
     "url": "polyfill-67d3d386ca9315df205e.js"
@@ -497,7 +497,7 @@ self.__precacheManifest = [
     "revision": "13e007bb9378c307da4f984fad46609a"
   },
   {
-    "url": "styles.4b56e694e00eed2f93f5.css"
+    "url": "styles.884e45f9d47dc7c7135b.css"
   },
   {
     "url": "webpack-runtime-022ea8f4ac3bd6d29dc4.js"
@@ -508,7 +508,7 @@ self.__precacheManifest = [
   },
   {
     "url": "webpack.stats.json",
-    "revision": "47eac313fc991ad4c68edbb8e6964086"
+    "revision": "0fd0cece783c7f2a0c9f57e69a9c2312"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
