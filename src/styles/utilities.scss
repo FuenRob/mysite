@@ -1,7 +1,14 @@
 /**
  * Fonts
  */
- @import url('https://fonts.googleapis.com/css?family=Ubuntu');
+    @import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+/**
+ * Displays
+ */
+h1, h2, h3{
+    font-family: "Ubuntu";
+}
 /**
  * Displays
  */
@@ -30,7 +37,6 @@
 /**
  * Margins
  */
-
 .mt-3{
     margin-top: 3rem;
 }
@@ -50,7 +56,6 @@
 /**
  * Paddings
  */
-
 .pt-3{
     padding-top: 3rem;
 }
@@ -70,7 +75,6 @@
 /**
  * Heights
  */
-
 .h-300{
     height: 300px;
 }
@@ -78,7 +82,6 @@
 /**
  * Display Texts
  */
-
 .text-center{
     text-align: center;
 }
@@ -102,7 +105,6 @@
 /**
  * Sizes text
  */
-
 .small-text{
     font-size: small;
 }
@@ -118,7 +120,6 @@
 /**
  * Font sizes
  */
-
 .initial{
     font-size: initial;
 }
