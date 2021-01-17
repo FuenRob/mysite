@@ -10,7 +10,7 @@ module.exports = {
     titleTemplate: `FuenRob - Blog de desarrollo web`,
     description: `Un blog personal sobre curiosidades y conocimientos de un desarrollador web`,
     siteUrl: "https://www.fuenrob.com",
-    image: "/favicon.ico", 
+    image: "static/favicon.ico", 
     twitterUsername: "@FuenRob",
     menuLinks:[
       {
@@ -100,7 +100,10 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        icon: "/favicon.ico",
+        name: "FuenRob - Blog de desarrollo web",
+        short_name: "@FuenRob",
+        start_url: "/",
+        icon: "static/favicon.ico",
         cache_busting_mode: 'none'
       }
     },
