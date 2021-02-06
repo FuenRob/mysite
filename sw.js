@@ -84,11 +84,11 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/2/index.html",
-    "revision": "f7047d016f6a37830aa0802a2e883df0"
+    "revision": "1cdbae8e35f85625ec3aa19d2937c31f"
   },
   {
     "url": "blog/3/index.html",
-    "revision": "c523f7382a9c2944a5c1b2b39e08ddf0"
+    "revision": "df1419659bc3da8d7f90dc05188ebf06"
   },
   {
     "url": "blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/index.html",
@@ -105,6 +105,10 @@ self.__precacheManifest = [
   {
     "url": "blog/configurar-docker-con-xdebug-y-vscode/index.html",
     "revision": "ef4684ef45804538b59e32211b76bb9a"
+  },
+  {
+    "url": "blog/crear-listado-de-tareas-con-vuejs/index.html",
+    "revision": "dfd99927d83c60c51d7788ee3378f79e"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-1/index.html",
@@ -128,7 +132,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "4bf23125f232af66f9576a993d5e000c"
+    "revision": "0b2e2d317b28b10c6debe46e904beaf9"
   },
   {
     "url": "blog/integrar-sanityio-en-reactjs/index.html",
@@ -274,7 +278,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "75b534f66b6b7cffbe5f79f77028502d"
+    "revision": "b6c683c73bdafc801bfb88360f893692"
   },
   {
     "url": "manifest.webmanifest",
@@ -306,11 +310,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/2/page-data.json",
-    "revision": "8117018b825bcfd1c9ebb8d7af55b005"
+    "revision": "6909bceb1c3f257da35d23ef05096ed5"
   },
   {
     "url": "page-data/blog/3/page-data.json",
-    "revision": "fb723078b9a06c995745705758531c45"
+    "revision": "f672e3573f6c601799eb58717af3a235"
   },
   {
     "url": "page-data/blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/page-data.json",
@@ -327,6 +331,10 @@ self.__precacheManifest = [
   {
     "url": "page-data/blog/configurar-docker-con-xdebug-y-vscode/page-data.json",
     "revision": "3c37ce2ba97d7d094f6d83d2518b85d2"
+  },
+  {
+    "url": "page-data/blog/crear-listado-de-tareas-con-vuejs/page-data.json",
+    "revision": "e532873968bda66aa3322f123d79ce2b"
   },
   {
     "url": "page-data/blog/crud-de-usuarios-en-nodejs-parte-1/page-data.json",
@@ -354,7 +362,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/page-data.json",
-    "revision": "12583ef92fef5886937ca56b3735a5c9"
+    "revision": "eac2517f80aee656c5a5f504d2b22cff"
   },
   {
     "url": "page-data/blog/que-es-deployer-y-como-usarlo/page-data.json",
@@ -378,7 +386,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "8f66d67e20dba8b76249372486c63098"
+    "revision": "2e87ccb8ae0c54e1d8c69da2c80968bc"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -421,7 +429,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap.xml",
-    "revision": "29f2e2ba7f03679ed4ebe74dc33e3b41"
+    "revision": "87289af203aeb6400e2bf1cff962bbbf"
   },
   {
     "url": "static/13f79d1fb92f130327434f44b966716d/0f3a1/image-post1.jpg"
@@ -476,6 +484,18 @@ self.__precacheManifest = [
   },
   {
     "url": "static/8e8ef179e353cb6f9f6124ab5ba7ad30/usar-prestashop-17-con-docker-compose.png"
+  },
+  {
+    "url": "static/9dfbdaa5df3a6a9bc61fe84d058918bb/31987/crear-listado-tareas-con-vuejs.png"
+  },
+  {
+    "url": "static/9dfbdaa5df3a6a9bc61fe84d058918bb/46604/crear-listado-tareas-con-vuejs.png"
+  },
+  {
+    "url": "static/9dfbdaa5df3a6a9bc61fe84d058918bb/crear-listado-tareas-con-vuejs.png"
+  },
+  {
+    "url": "static/9dfbdaa5df3a6a9bc61fe84d058918bb/eeb1b/crear-listado-tareas-con-vuejs.png"
   },
   {
     "url": "static/ff8131d6e5212fdddaddb1f20be4e03e/31987/actions-github-banner.png"
