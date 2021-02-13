@@ -84,11 +84,11 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/2/index.html",
-    "revision": "1cdbae8e35f85625ec3aa19d2937c31f"
+    "revision": "3b6d63127bbe60f833ef6e361e7d15d4"
   },
   {
     "url": "blog/3/index.html",
-    "revision": "df1419659bc3da8d7f90dc05188ebf06"
+    "revision": "f3cb005d08aff3c3077259ff4d57bf26"
   },
   {
     "url": "blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/index.html",
@@ -132,7 +132,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "0b2e2d317b28b10c6debe46e904beaf9"
+    "revision": "ffd30096baadc0144c4f1a1ee5e611b5"
   },
   {
     "url": "blog/integrar-sanityio-en-reactjs/index.html",
@@ -149,6 +149,10 @@ self.__precacheManifest = [
   {
     "url": "blog/usar-prestashop-17-con-docker-compose/index.html",
     "revision": "b24e58548abecccc9c2befb3d6cbab17"
+  },
+  {
+    "url": "blog/usar-variables-en-css/index.html",
+    "revision": "bedef108738cebff74b8687288630fa6"
   },
   {
     "url": "cb1608f2-8be864fd25be3f47a99c.js"
@@ -278,7 +282,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "b6c683c73bdafc801bfb88360f893692"
+    "revision": "32dffce56751db56740fa8279be60711"
   },
   {
     "url": "manifest.webmanifest",
@@ -310,11 +314,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/2/page-data.json",
-    "revision": "6909bceb1c3f257da35d23ef05096ed5"
+    "revision": "ed54f86475c494daa643c1ac7d92a793"
   },
   {
     "url": "page-data/blog/3/page-data.json",
-    "revision": "f672e3573f6c601799eb58717af3a235"
+    "revision": "bc690ff95f93f8728b7636f5a7f72d04"
   },
   {
     "url": "page-data/blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/page-data.json",
@@ -362,7 +366,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/page-data.json",
-    "revision": "eac2517f80aee656c5a5f504d2b22cff"
+    "revision": "e38f5e35098a30404253e773cc956b37"
   },
   {
     "url": "page-data/blog/que-es-deployer-y-como-usarlo/page-data.json",
@@ -377,6 +381,10 @@ self.__precacheManifest = [
     "revision": "b2ab17616617af1fccb798884ce2a5da"
   },
   {
+    "url": "page-data/blog/usar-variables-en-css/page-data.json",
+    "revision": "ed184a0b23e0051eeb6acfbb9c299a89"
+  },
+  {
     "url": "page-data/condiciones-de-uso/page-data.json",
     "revision": "4f39f62fe0956105265578555836ecd5"
   },
@@ -386,7 +394,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "2e87ccb8ae0c54e1d8c69da2c80968bc"
+    "revision": "c44ca2a93629a44c6d11d5d94e113cf3"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -429,7 +437,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap.xml",
-    "revision": "87289af203aeb6400e2bf1cff962bbbf"
+    "revision": "e7643259f24088f09ca7b1dedf5eae9d"
   },
   {
     "url": "static/13f79d1fb92f130327434f44b966716d/0f3a1/image-post1.jpg"
@@ -451,6 +459,15 @@ self.__precacheManifest = [
   },
   {
     "url": "static/1663bd3891c31dc71eb22887786bb242/como-deshacer-un-commit-erroneo.png"
+  },
+  {
+    "url": "static/32ef9d9bca4a1a59b0fc0b9cb277ad7f/0f3a1/usar-variables-en-css.jpg"
+  },
+  {
+    "url": "static/32ef9d9bca4a1a59b0fc0b9cb277ad7f/a7715/usar-variables-en-css.jpg"
+  },
+  {
+    "url": "static/32ef9d9bca4a1a59b0fc0b9cb277ad7f/usar-variables-en-css.jpg"
   },
   {
     "url": "static/466c7fe618f63d32b0272d13185dfd52/46604/dockerphp.png"
