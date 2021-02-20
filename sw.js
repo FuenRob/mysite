@@ -84,11 +84,15 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/2/index.html",
-    "revision": "3b6d63127bbe60f833ef6e361e7d15d4"
+    "revision": "71285bac0190629f3ce90d2cbc10ec16"
   },
   {
     "url": "blog/3/index.html",
-    "revision": "f3cb005d08aff3c3077259ff4d57bf26"
+    "revision": "110edd953bec87757569a4d5348e11e8"
+  },
+  {
+    "url": "blog/4/index.html",
+    "revision": "91b53fc0f129dc6f579ec02e08cf99bb"
   },
   {
     "url": "blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/index.html",
@@ -132,7 +136,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "ffd30096baadc0144c4f1a1ee5e611b5"
+    "revision": "bb828aed4a1e716eeef187ea0a8f9d81"
   },
   {
     "url": "blog/integrar-sanityio-en-reactjs/index.html",
@@ -149,6 +153,10 @@ self.__precacheManifest = [
   {
     "url": "blog/usar-prestashop-17-con-docker-compose/index.html",
     "revision": "b24e58548abecccc9c2befb3d6cbab17"
+  },
+  {
+    "url": "blog/usar-redis-como-motor-de-base-de-datos/index.html",
+    "revision": "50a2f9e98597ec8a1a33101f34a37bcf"
   },
   {
     "url": "blog/usar-variables-en-css/index.html",
@@ -282,7 +290,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "32dffce56751db56740fa8279be60711"
+    "revision": "6b1bbde95c78a0255f3840981272e310"
   },
   {
     "url": "manifest.webmanifest",
@@ -314,11 +322,15 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/2/page-data.json",
-    "revision": "ed54f86475c494daa643c1ac7d92a793"
+    "revision": "fcd576f113e9a7252b625510a529eeb3"
   },
   {
     "url": "page-data/blog/3/page-data.json",
-    "revision": "bc690ff95f93f8728b7636f5a7f72d04"
+    "revision": "63bbfbbfc7a4af0b7f4f8375c33b3400"
+  },
+  {
+    "url": "page-data/blog/4/page-data.json",
+    "revision": "4e1aa197665ba70c839d986e37782844"
   },
   {
     "url": "page-data/blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/page-data.json",
@@ -366,7 +378,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/blog/page-data.json",
-    "revision": "e38f5e35098a30404253e773cc956b37"
+    "revision": "b70cfd2d90a024b99d2950e71d3cd3ac"
   },
   {
     "url": "page-data/blog/que-es-deployer-y-como-usarlo/page-data.json",
@@ -379,6 +391,10 @@ self.__precacheManifest = [
   {
     "url": "page-data/blog/usar-prestashop-17-con-docker-compose/page-data.json",
     "revision": "b2ab17616617af1fccb798884ce2a5da"
+  },
+  {
+    "url": "page-data/blog/usar-redis-como-motor-de-base-de-datos/page-data.json",
+    "revision": "0dc582ea0b7dabdf7b02f5b71cddb166"
   },
   {
     "url": "page-data/blog/usar-variables-en-css/page-data.json",
@@ -394,7 +410,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/index/page-data.json",
-    "revision": "c44ca2a93629a44c6d11d5d94e113cf3"
+    "revision": "82c790871fe81a0632db1a3cdbdb69dd"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -437,7 +453,16 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap.xml",
-    "revision": "e7643259f24088f09ca7b1dedf5eae9d"
+    "revision": "cf0e927eb7fdef20434b94a01a5fc864"
+  },
+  {
+    "url": "static/0a264ce9e5c3ef452fa92889416a736b/0f3a1/usar-redis-como-motor-de-base-de-datos.jpg"
+  },
+  {
+    "url": "static/0a264ce9e5c3ef452fa92889416a736b/60e8b/usar-redis-como-motor-de-base-de-datos.jpg"
+  },
+  {
+    "url": "static/0a264ce9e5c3ef452fa92889416a736b/usar-redis-como-motor-de-base-de-datos.jpg"
   },
   {
     "url": "static/13f79d1fb92f130327434f44b966716d/0f3a1/image-post1.jpg"
