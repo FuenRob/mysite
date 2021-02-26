@@ -114,6 +114,13 @@ module.exports = {
             globPatterns: ['**/*']
           }
       }
+    },
+    {
+      resolve: "@sentry/gatsby",
+      options: {
+        dsn: "https://24f75c0bcfe84e99b7e47370d9408dc9@o413157.ingest.sentry.io/5296692",
+        sampleRate: 0.7,
+      },
     }
   ],
   pathPrefix: `/`,
