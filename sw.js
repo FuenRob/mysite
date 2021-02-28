@@ -28,11 +28,11 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "35425d7f144e2f7e4111b9f716229718"
+    "revision": "56e50d30b31db8c5a1f76bae84da4b0b"
   },
   {
     "url": "404/index.html",
-    "revision": "227c0ce8f81d6a5e7863f69ed8516a0a"
+    "revision": "f39daebd82b4966cfda6949b9116b769"
   },
   {
     "url": "505b62317f0ce1886a0f4b7cd0ebf6019d251f61-1e702cc961624471a34a.js"
@@ -53,6 +53,17 @@ self.__precacheManifest = [
     "revision": "16e8a4bf1d858cc610a8801cdf5c3477"
   },
   {
+    "url": "9c6c4dab96575556586440b4276b5a5e7d3ed3c7-eaacc668e4abb5d8fd1f.js"
+  },
+  {
+    "url": "9c6c4dab96575556586440b4276b5a5e7d3ed3c7-eaacc668e4abb5d8fd1f.js.LICENSE.txt",
+    "revision": "012b3ce98ce6ac0ac7f0b8e13e162fa9"
+  },
+  {
+    "url": "9c6c4dab96575556586440b4276b5a5e7d3ed3c7-eaacc668e4abb5d8fd1f.js.map",
+    "revision": "cb75ae0d88750c55537a58813bdc85d1"
+  },
+  {
     "url": "a9a7754c-2386239dcdf0f04f1690.js"
   },
   {
@@ -65,7 +76,18 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "6197d0314768acc6ca5bec97ad9f880d"
+    "revision": "ad53224bca11d0c65976978f5b8d5648"
+  },
+  {
+    "url": "app-9974a056b161a84b0401.js"
+  },
+  {
+    "url": "app-9974a056b161a84b0401.js.LICENSE.txt",
+    "revision": "46ed18db45b3377c49ac5760128c7207"
+  },
+  {
+    "url": "app-9974a056b161a84b0401.js.map",
+    "revision": "6bf8da61fefe9cb7398bfe2057aef05a"
   },
   {
     "url": "app-ba5c5993b411999af54b.js"
@@ -80,87 +102,87 @@ self.__precacheManifest = [
   },
   {
     "url": "aviso-legal/index.html",
-    "revision": "0a92659a50de19f5dfbc0ed265d64866"
+    "revision": "561a3eabf62d38b47510eb405293f497"
   },
   {
     "url": "blog/2/index.html",
-    "revision": "71285bac0190629f3ce90d2cbc10ec16"
+    "revision": "20f60f0ed6cdf728b18f8f5c09bac5c7"
   },
   {
     "url": "blog/3/index.html",
-    "revision": "110edd953bec87757569a4d5348e11e8"
+    "revision": "a5ff12fc50112c7d06a2d24d3fbd1b64"
   },
   {
     "url": "blog/4/index.html",
-    "revision": "91b53fc0f129dc6f579ec02e08cf99bb"
+    "revision": "aeec2ea547acc7f0c634af0a4120cee4"
   },
   {
     "url": "blog/5-extensiones-de-vscode-que-todo-dev-debe-tener/index.html",
-    "revision": "243dac9c446528839d90970b8a70cd17"
+    "revision": "5f64bbc6f9abec229a368302d2907512"
   },
   {
     "url": "blog/como-deshacer-un-commit-erroneo/index.html",
-    "revision": "5da8b4a117afb2c8d6adcce5e3f70eb5"
+    "revision": "b6239300932d76c597c5b070fa2eddf7"
   },
   {
     "url": "blog/como-usar-los-secrets-de-github/index.html",
-    "revision": "952e42978601ee4247eeaf2c70216c8b"
+    "revision": "b0d86017b4f3a153733064a572871147"
   },
   {
     "url": "blog/configurar-docker-con-xdebug-y-vscode/index.html",
-    "revision": "ef4684ef45804538b59e32211b76bb9a"
+    "revision": "25822f4a10b90cf361600a757d64f27e"
   },
   {
     "url": "blog/crear-listado-de-tareas-con-vuejs/index.html",
-    "revision": "dfd99927d83c60c51d7788ee3378f79e"
+    "revision": "cbacd1da6d040b22a4e266a627465a51"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-1/index.html",
-    "revision": "3d03953eca448b809ffca69cf865f7fe"
+    "revision": "a6f6f31d6057d9b73ccaa0c63caab013"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-2/index.html",
-    "revision": "afefffe9478fd08c5d59065795457b76"
+    "revision": "1ac0eb307abf70f920d19f507207e9ac"
   },
   {
     "url": "blog/crud-de-usuarios-en-nodejs-parte-3/index.html",
-    "revision": "d644e1c9c641bc10dfe02cae1d3af80e"
+    "revision": "a4d11569c7e22ab6db021d3331d98a32"
   },
   {
     "url": "blog/desarrollar-una-pagina-de-configuracion-para-un-plugin-de-wordpress/index.html",
-    "revision": "a44ec4362e86cdff03fd58b0a66de177"
+    "revision": "9c32804d74649166457c0f5b611b721a"
   },
   {
     "url": "blog/generar-json-web-token-en-nodejs/index.html",
-    "revision": "d08dc06341733d45256e6297f075dafa"
+    "revision": "5a6985355c215616dfa1d23ccc572934"
   },
   {
     "url": "blog/index.html",
-    "revision": "bb828aed4a1e716eeef187ea0a8f9d81"
+    "revision": "46b96b4915128d7747be4f141406f63e"
   },
   {
     "url": "blog/integrar-sanityio-en-reactjs/index.html",
-    "revision": "b42fd126920cded523b95f631e12ccac"
+    "revision": "2ba4a4eca5f6392461bd8f663ecd667e"
   },
   {
     "url": "blog/que-es-deployer-y-como-usarlo/index.html",
-    "revision": "2b8eb811a6d212b15cac5232fdd99b45"
+    "revision": "ddcd3a40b8a12cd2e42ed0b4815a9270"
   },
   {
     "url": "blog/un-blog-en-gatsbyjs/index.html",
-    "revision": "4b56aba83317faa73b47e1f9b63ea690"
+    "revision": "9853c214df082b831c128a16519de6fd"
   },
   {
     "url": "blog/usar-prestashop-17-con-docker-compose/index.html",
-    "revision": "b24e58548abecccc9c2befb3d6cbab17"
+    "revision": "01bd166a99f27ca12fa69b708d64e141"
   },
   {
     "url": "blog/usar-redis-como-motor-de-base-de-datos/index.html",
-    "revision": "50a2f9e98597ec8a1a33101f34a37bcf"
+    "revision": "65f825452196bb194d3c16f5cab19a48"
   },
   {
     "url": "blog/usar-variables-en-css/index.html",
-    "revision": "bedef108738cebff74b8687288630fa6"
+    "revision": "64d16b31e78c833c5b3bb53d38817e6c"
   },
   {
     "url": "cb1608f2-8be864fd25be3f47a99c.js"
@@ -175,7 +197,7 @@ self.__precacheManifest = [
   },
   {
     "url": "chunk-map.json",
-    "revision": "98f504f528d98d62f57e7155954956f2"
+    "revision": "58c3223d8886de7f7e2d8d74efe212bb"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-d3ee03be2ef85643f368.js"
@@ -228,11 +250,11 @@ self.__precacheManifest = [
   },
   {
     "url": "condiciones-de-uso/index.html",
-    "revision": "041d0e9f8598641186d7330129402ce4"
+    "revision": "9ece8afa17cb74072673893b20ae9bd9"
   },
   {
     "url": "contact/index.html",
-    "revision": "75b0b4205b524ea7fc4ece7cd57b81a9"
+    "revision": "a970377229654fb1fa95a9cb8a49aae8"
   },
   {
     "url": "favicon-32x32.png",
@@ -290,7 +312,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "6b1bbde95c78a0255f3840981272e310"
+    "revision": "561eaf2a5015eec0ad02119dd5e7c8ac"
   },
   {
     "url": "manifest.webmanifest",
@@ -298,7 +320,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "f20f362c5323268cf86ae29a7cdf08f1"
+    "revision": "ad40c42a7f8af8edc2ea8a3af1c580fa"
   },
   {
     "url": "page-data/404.html/page-data.json",
@@ -314,7 +336,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "622fd7f67895051046627e4ae55fc6bc"
+    "revision": "84befc5377587f4d919d5010a1438836"
   },
   {
     "url": "page-data/aviso-legal/page-data.json",
@@ -434,11 +456,11 @@ self.__precacheManifest = [
   },
   {
     "url": "politica-de-cookies/index.html",
-    "revision": "4c71047797e71dadfdb43eb84f341d29"
+    "revision": "5e4f54512dfef0a26a343dc2faffe654"
   },
   {
     "url": "politica-de-privacidad/index.html",
-    "revision": "69338b4d27ebf88b1de4e767e2befa27"
+    "revision": "4c4b756fcedfbde98b91ab9b6ff467e4"
   },
   {
     "url": "polyfill-67d3d386ca9315df205e.js"
@@ -453,7 +475,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap.xml",
-    "revision": "cf0e927eb7fdef20434b94a01a5fc864"
+    "revision": "2c7447407bd26ea9e3f5a8ea554ab854"
   },
   {
     "url": "static/0a264ce9e5c3ef452fa92889416a736b/0f3a1/usar-redis-como-motor-de-base-de-datos.jpg"
@@ -569,8 +591,15 @@ self.__precacheManifest = [
     "revision": "3a8ca4974cbd16b096f43e584cebde2b"
   },
   {
+    "url": "webpack-runtime-3a4f7b58abed11f7abca.js"
+  },
+  {
+    "url": "webpack-runtime-3a4f7b58abed11f7abca.js.map",
+    "revision": "7a15687b074b6393131a20722080c88f"
+  },
+  {
     "url": "webpack.stats.json",
-    "revision": "0fd0cece783c7f2a0c9f57e69a9c2312"
+    "revision": "145d30564439300e2a8a48c6ff45a3be"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -662,7 +691,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-ba5c5993b411999af54b.js`))) {
+  if (!resources || !(await caches.match(`/app-9974a056b161a84b0401.js`))) {
     return await fetch(event.request)
   }
 
